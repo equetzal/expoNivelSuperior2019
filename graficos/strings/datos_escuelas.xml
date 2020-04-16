@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dirCICS_UMA">CICITEC, Ex – Hacienda del Mayorazgo, Km. 39.5 Carretera Xochimilco – Oaxtepec, C.P. 12000, Apartado Postal: 87-005. Ciudad de México, México.</string>
+    <string name="webCICS_UMA">cicsma.ipn.mx</string>
+    <string name="httpCICS_UMA">https://www.cicsma.ipn.mx</string>
+    <string name="matriculaCICS_UMA">2,221</string>
+    <string name="hombresCICS_UMA">815</string>
+    <string name="mujeresCICS_UMA">1,406</string>
+    <string name="eficienciaCICS_UMA">70.31%</string>
+
+    <string name="dirCICS_UST">Av. de los Maestros, Santo Tomás, 11340 Ciudad de México, CDMX</string>
+    <string name="webCICS_UST">cics-sto.ipn.mx</string>
+    <string name="httpCICS_UST">https://www.cics-sto.ipn.mx</string>
+
+    <string name="dirENBA">Calzada Ticomán No. 645, Col. Sta. María Ticomán, Deleg. Gustavo A. Madero, Distrito Federal CP. 07330</string>
+    <string name="webENBA">enba.ipn.mx</string>
+    <string name="httpENBA">http://www.enba.ipn.mx/index.html</string>
+
+    <string name="dirENCB_UST">D.R. Unidad Profesional Lázaro Cárdenas, Prolongación de Carpio y Plan de Ayala s/n, Col. Santo Tomás, C.P. 11340, Delegación Miguel Hidalgo, Ciudad de México.</string>
+    <string name="webENCB_UST">encb.ipn.mx</string>
+    <string name="httpENCB_UST">http://www.encb.ipn.mx</string>
+    <string name="dirENCB_UZ">Av. Wilfrido Massieu 399, Nueva Industrial Vallejo, 07738 Ciudad de México, CDMX</string>
+
+    <string name="dirENMH">Guillermo Massieu Helguera, No. 239, Fracc. "La Escalera", Ticomán, C.P. 07320.</string>
+    <string name="webENMH">enmh.ipn.mx</string>
+    <string name="httpENMH">http://www.enmh.ipn.mx</string>
+
+    <string name="dirESCA_UST">Manuel Carpio Num. 471, Col. Plutarco Elías Calles, Alcaldía Miguel Hidalgo, C. P. 11340, Ciudad de México.</string>
+    <string name="webESCA_UST">escasto.ipn.mx</string>
+    <string name="httpESCA_UST">https://www.escasto.ipn.mx</string>
+
+    <string name="dirESCA_UTep">4863 Anillo Periférico Sur Manuel Gómez Morín, Amp Tepepan, 16020 Ciudad de México, CDMX</string>
+    <string name="webESCA_UTep">escatep.ipn.mx</string>
+    <string name="httpESCA_UTep">https://www.escatep.ipn.mx</string>
+
+    <string name="dirESCOM">Av. Juan de Dios Bátiz S/N esq. Av. Miguel Othón de Mendizabal. Colonia Lindavista. Alcaldia Gustavo A. Madero. C. P. 07738. Ciudad de México.</string>
+    <string name="webESCOM">escom.ipn.mx</string>
+    <string name="httpESCOM">http://www.escom.ipn.mx</string>
+
+    <string name="dirESE">Escuela Superior de Economía, Plan de Agua Prieta No. 66 Col. Plutarco Elías Calles, Unidad Profesional Adolfo López Mateos, Casco de Santo Tomás, Delegación Miguel Hidalgo, C.P. 11340, Ciudad de México. México.</string>
+    <string name="webESE">ese.ipn.mx</string>
+    <string name="httpESE">http://www.ese.ipn.mx/</string>
+
+    <string name="dirESEO">Escuela Superior de Economía, Plan de Agua Prieta No. 66 Col. Plutarco Elías Calles, Unidad Profesional Adolfo López Mateos, Casco de Santo Tomás, Delegación Miguel Hidalgo, C.P. 11340, Ciudad de México. México.</string>
+    <string name="webESEO">eseo.ipn.mx</string>
+    <string name="httpESEO">https://www.eseo.ipn.mx</string>
+
+    <string name="dirESFM">Av. Instituto Politécnico Nacional s/n Edificio 9 Unidad Profesional “Adolfo López Mateos” Col. San Pedro Zacatenco, Del. Gustavo A. Madero, Ciudad de México C.P. 07738, Ciudad de México; México.</string>
+    <string name="webESFM">esfm.ipn.mx</string>
+    <string name="httpESFM">https://www.esfm.ipn.mx</string>
+
+    <string name="dirESIA_UTec">Av. Fuente de Los Leones 28, Lomas de Tecamachalco, 53950 Naucalpan de Juárez, Méx.</string>
+    <string name="webESIA_UTec">esiatec.ipn.mx</string>
+    <string name="httpESIA_UTec">https://www.esiatec.ipn.mx</string>
+
+    <string name="dirESIA_UTi">Calz. Ticomán 600, La Purísima Ticoman, 07340 Gustavo A Madero, CDMX</string>
+    <string name="webESIA_UTi">esiatic.ipn.mx</string>
+    <string name="httpESIA_UTi">http://www.esiatic.ipn.mx/</string>
+
+    <string name="dirESIA_UZ">Av. Miguel Bernard S/N, Unidad Profesional Adolfo López Mateos, Zacatenco, Delegación Gustavo A. Madero, C.P. 07738, Ciudad de México; México.</string>
+    <string name="webESIA_UZ">esiaz.ipn.mx</string>
+    <string name="httpESIA_UZ">https://www.esiaz.ipn.mx</string>
+
+    <string name="dirESIME_UA">Av. de las Granjas 682, Santa Catarina, 02250 Ciudad de México, CDMX; México.</string>
+    <string name="webESIME_UA">esimeazc.ipn.mx</string>
+    <string name="httpESIME_UA">http://www.esimeazc.ipn.mx/</string>
+
+    <string name="dirESIME_UC">Avenida Santa Ana 951, San Francisco Culhuacan, Culhuacan CTM V, 04260 Ciudad de México, CDMX; México.</string>
+    <string name="webESIME_UC">esimecu.ipn.mx</string>
+    <string name="httpESIME_UC">https://www.esimecu.ipn.mx/</string>
+
+    <string name="dirESIME_UTi">Av. Ticomán No. 600, Col. San José Ticomán, Delegación Gustavo A. Madero, Ciudad de México, México, C.P. 07340.</string>
+    <string name="webESIME_UTi">esimetic.ipn.mx</string>
+    <string name="httpESIME_UTi">https://www.esimetic.ipn.mx</string>
+
+    <string name="dirESIME_UZ">Av. Luis Enrique Erro S/N, Unidad Profesional Adolfo López Mateos, Zacatenco, Delegación Gustavo A. Madero, C.P. 07738</string>
+    <string name="webESIME_UZ">esimez.ipn.mx</string>
+    <string name="httpESIME_UZ">https://www.esimez.ipn.mx</string>
+
+    <string name="dirESIQIE">Av Instituto Politécnico Nacional S/N, Nueva Industrial Vallejo, 07738 Ciudad de México, CDMX</string>
+    <string name="webESIQIE">esiqie.ipn.mx</string>
+    <string name="httpESIQIE">https://www.esiqie.ipn.mx</string>
+
+    <string name="dirESIT">Av. Luis Enrique Erro S/N, Unidad Profesional Adolfo López Mateos, Zacatenco, Delegación Gustavo A. Madero, C.P. 07738, Ciudad de México; México.</string>
+    <string name="webESIT">esit.ipn.mx</string>
+    <string name="httpESIT">https://www.esit.ipn.mx</string>
+
+    <string name="dirESM">Plan de San Luis y Díaz Mirón s/n, Col. Casco de Santo Tomas, Delegación Miguel Hidalgo, C.P. 11340, Ciudad de México; México.</string>
+    <string name="webESM">esm.ipn.mx</string>
+    <string name="httpESM">https://www.esm.ipn.mx</string>
+
+    <string name="dirEST">Av. Miguel Bernard 39, Residencial La Escalera, Gustavo A. Madero, 07630 Ciudad de México, CDMX; México.</string>
+    <string name="webEST">est.ipn.mx</string>
+    <string name="httpEST">https://www.est.ipn.mx</string>
+
+    <string name="dirUPIBI">Av. Acueducto s/n, Colonia : Barrio La Laguna Ticomán CP. 07340 G.A.M CDMX</string>
+    <string name="webUPIBI">upibi.ipn.mx</string>
+    <string name="httpUPIBI">https://www.upibi.ipn.mx</string>
+
+    <string name="dirUPIICSA">Av. Té #950 esquina Resina, Col. Granjas México, C.P. 08400, Alcaldía. Iztacalco, Ciudad de México, México.</string>
+    <string name="webUPIICSA">upiicsa.ipn.mx</string>
+    <string name="httpUPIICSA">https://www.upiicsa.ipn.mx</string>
+
+    <string name="dirUPIIG">Av. Mineral de Valenciana 200, Col. Fraccionamiento Industrial Puerto Interior, 36275 Silao de la Victoria, Gto.</string>
+    <string name="webUPIIG">upiig.ipn.mx</string>
+    <string name="httpUPIIG">https://www.upiig.ipn.mx</string>
+
+    <string name="dirUPIIH">Carretera Pachuca - Actopan Kilómetro 1+500, Pachuca Ciudad del Conocimiento y la Cultura, San Agustín Tlaxiaca, 42162 Hidalgo.</string>
+    <string name="webUPIIH">upiih.ipn.mx</string>
+    <string name="httpUPIIH">https://www.upiih.ipn.mx</string>
+
+    <string name="dirUPIITA">Avenida Instituto Politécnico Nacional No. 2580, Col Barrio la Laguna Ticomán, Gustavo A. Madero, Ciudad de México, C.P. 07340.</string>
+    <string name="webUPIITA">upiita.ipn.mx</string>
+    <string name="httpUPIITA">https://www.upiita.ipn.mx</string>
+
+    <string name="dirUPIIZ"> Blvd. del Bote 202 Cerro del Gato Ejido La Escondida, Col. Ciudad Administrativa 98160 Zacatecas, Zac.</string>
+    <string name="webUPIIZ">zacatecas.ipn.mx</string>
+    <string name="httpUPIIZ">https://www.zacatecas.ipn.mx</string>
+
+
+</resources>

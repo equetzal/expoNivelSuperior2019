@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".schoolar_careers">
+
+    <!-- Barra Superior -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/guinda"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/backToCarr"
+            android:layout_width="40dp"
+            android:paddingVertical="7dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="9dp"
+            android:contentDescription="@string/descripcionBack"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/back_row"/>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/txtNomCarr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/carrMCP"
+            android:textSize="14sp"
+            android:layout_marginRight="20dp"
+            tools:layout_editor_absoluteX="379dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textAlignment="textEnd"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/guinda"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:textSize="13sp"
+        android:paddingHorizontal="25dp"
+        android:paddingVertical="10dp"
+        android:layout_marginVertical="10dp"
+        android:text="@string/interEscuelas"/>
+
+    <!-- Vista Deslizable -->
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/scrollEscuelasCarrerasEsc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp">
+
+            <!-- CICS UMA-->
+            <LinearLayout
+                android:id="@+id/btnEscEscCICS_UMA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compCICS_UMA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrCICS_UMA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/cics" />
+            </LinearLayout>
+
+            <!-- ENMH-->
+            <LinearLayout
+                android:id="@+id/btnEscEscENMH"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compENMH"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrENMH"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/enmh" />
+            </LinearLayout>
+
+            <!-- ESM-->
+            <LinearLayout
+                android:id="@+id/btnEscEscESM"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESM"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESM"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esm" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

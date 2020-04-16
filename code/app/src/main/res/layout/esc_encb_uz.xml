@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".esc_CICS_UMA"
+    android:layout_gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--Back Row-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/backEsc"
+                android:layout_width="40dp"
+                android:paddingVertical="7dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="9dp"
+                android:contentDescription="@string/descripcionBack"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/back_row_guinda"/>
+        </LinearLayout>
+
+        <!--Escudo-->
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:background="@drawable/encb"/>
+
+        <!--Nombre Escuela-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/guinda"
+            android:textColor="@color/white"
+            android:text="@string/compENCB_UZ"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="13dp"
+            android:layout_marginTop="3dp"
+            android:textStyle="bold"/>
+
+        <!--Mapa-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/mapa"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:contentDescription="@string/descripcionMapaEscuela"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <ImageButton
+            android:id="@+id/btnMapa"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/map_box"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/mapa_encb_uz"
+            android:paddingVertical="3dp"
+            android:paddingHorizontal="3dp"
+            android:layout_marginHorizontal="40dp"
+            />
+
+        <!--Direccion-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/direccion"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="40dp"
+            android:textColor="@color/guinda"
+            android:textStyle="italic"
+            android:textSize="11sp"
+            android:text="@string/dirENCB_UZ"/>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

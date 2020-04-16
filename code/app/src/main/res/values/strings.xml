@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Expo Profesiográfica 2019 Nivel Superior</string>
+    <string name="headerlogoofexpo">headerLogoOfExpo</string>
+    <string name="textview">TextView</string>
+    <string name="selectModalityInstruction">Selecciona una modalidad de estudio</string>
+    <string name="modalidadEscolarizada">Modalidad Escolarizada</string>
+    <string name="modalidadNoEscolarizada">Modalidad No Escolarizada</string>
+    <string name="modalidadMixta">Modalidad Mixta</string>
+    <string name="porCarrera">Ver por Carrera</string>
+    <string name="porEscuela">Ver por Escuela</string>
+    <string name="seleccionaModoDeVisualizacion">Selecciona un modo de Visualización</string>
+    <string name="carrerasEscolarizadas">Carreras Escolarizadas</string>
+    <string name="carrerasNoEscolarizadas">Carreras No Escolarizadas</string>
+    <string name="carrerasMixtas">Carreras Mixtas</string>
+    <string name="escuelasEscolarizadas">Escuelas Escolarizadas</string>
+    <string name="escuelasNoEscolarizadas">Escuelas No Escolarizadas</string>
+    <string name="escuelasMixtas">Escuelas Mixtas</string>
+    <string name="ofertaEscolarizada">Oferta Educativa Escolarizada</string>
+    <string name="ofertaNoEscolarizada">Oferta Educativa No Escolarizada</string>
+    <string name="ofertaMixta">Oferta Educativa Mixta</string>
+    <string name="areaCSA">Ciencias Sociales y Administrativas</string>
+    <string name="areaCMB">Ciencias Médico Biológicas</string>
+    <string name="areaICFM">Ingeniería y Ciencias Físico Matemáticas</string>
+    <string name="sedes">Sedes</string>
+    <string name="mapa">Mapa</string>
+    <string name="direccion">Dirección</string>
+    <string name="estadisticas">Estadísticas</string>
+    <string name="sitios">Sitios de Interés</string>
+    <string name="becas">Becas</string>
+    <string name="becasCont">Institucional\nManutención\nDeportiva\nBécalos</string>
+    <string name="salud">Salud</string>
+    <string name="saludCont">IMSS\nSeguro de Vida\nOrientación Juvenil</string>
+    <string name="software">Software\nInstitucional</string>
+    <string name="softwareCont">Microsoft Office\nAutodesk CAD\nWolfram</string>
+    <string name="polivirtual">Polivirtual</string>
+    <string name="aulaPolivirtual">Aula\nPolivirtual</string>
+    <string name="UPEV">UPEV</string>
+    <string name="webBecas">https://www.ipn.mx/dse/becas/</string>
+    <string name="webSalud">https://www.ipn.mx/dse/salud/</string>
+    <string name="webSoftware">http://www.dcyc.ipn.mx/Software/Paginas/Asesoria-Requerimientos-de-Software.aspx</string>
+    <string name="webEstadisticas">https://www.ipn.mx/estadisticas.html</string>
+    <string name="webPolivirtual">http://www.polivirtual.ipn.mx</string>
+    <string name="webAulaPolivirtual">https://www.nsyp.aulapolivirtual.ipn.mx</string>
+    <string name="webUPEV">http://www.upev.ipn.mx</string>
+    <string name="webDAE">https://www.ipn.mx/dae/</string>
+    <string name="eficienciaTerminal">Eficiencia Terminal</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="ingreso">¿Cuál es el perfil de Ingreso?</string>
+    <string name="egreso">¿Cuál es el perfil de Egreso?</string>
+    <string name="mapaCurricular">Conoce el Mapa Curricular</string>
+    <string name="requisitos">¿Cuáles son los requisitos?</string>
+    <string name="interEscuelas">Actualmente, esta carrera es impartida en las siguientes unidades académicas, por favor selecciona una de ellas para ver más información de esta carrera.</string>
+    <string name="descripcionBack">Regresar a pantalla anterior</string>
+    <string name="descripcionDLogo_ESCOM">Aplicación desarrollada por la Escuela Superior de Cómputo del Instituto Politécnico Nacional</string>
+    <string name="descripcionInformacion">Información sobre la Aplicación</string>
+    <string name="descripcionLogoExpo">Logotipo de la Expo</string>
+    <string name="descripcionMapaEscuela">Abrir aplicación de mapas en la ubicación de la escuela</string>
+    <string name="proceso"><u>Proceso de Admisión al IPN</u></string>
+
+    <string name="datosAutores">Aplicación Expo Profesiográfica 2019 - Nivel Superior\n
+        \n
+    Proyecto de la Escuela Superior de Cómputo (ESCOM)\n
+    Coordinado por el Ing. José Antonio Ortiz Ramírez \n
+    Desarrollado por Eduardo Gómez Rodríguez\n
+        \n
+    Con la asistencia y apoyo de:\n
+    Dirección de Educación Superior - IPN\n
+    Coordinación General de Servicios Informáticos - IPN\n
+    Josue Davíd Hernández Ramírez</string>
+</resources>

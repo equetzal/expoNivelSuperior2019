@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".questions"
+    android:layout_gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--Back Row-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/backQ"
+                android:layout_width="40dp"
+                android:paddingVertical="7dp"
+                android:paddingLeft="15dp"
+                android:contentDescription="@string/descripcionBack"
+                android:paddingRight="9dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/back_row_guinda"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/btnWebDAE"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="13dp"
+            android:paddingVertical="5dp"
+            android:layout_marginVertical="10dp"
+            android:textColor="@color/guinda"
+            android:textAlignment="center"
+            android:text="@string/proceso"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="10dp"
+            android:layout_marginVertical="20dp"
+            android:textSize="11sp"
+            android:textAlignment="center"
+            android:textStyle="italic|bold"
+            android:textColor="@color/guinda"
+            android:text="@string/datosAutores"
+            />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

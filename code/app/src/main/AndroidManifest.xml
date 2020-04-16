@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="mx.ipn.exponivelsuperior">
+
+    <application
+        android:allowBackup="true"
+        android:largeHeap="true"
+        android:icon="@mipmap/ic_ipn_epns"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_ipn_epns"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".carr_IMecatro"></activity>
+        <activity android:name=".carr_IMecani" />
+        <activity android:name=".carr_IInd" />
+        <activity android:name=".carr_IFarm" />
+        <activity android:name=".carr_ISC" />
+        <activity android:name=".carr_ISAuto" />
+        <activity android:name=".carr_ICE" />
+        <activity android:name=".carr_IAlim" />
+        <activity android:name=".carr_IAero" />
+        <activity android:name=".carr_IBiotec" />
+        <activity android:name=".carr_IAmb" />
+        <activity android:name=".carr_LEnf" />
+        <activity android:name=".carr_MCP" />
+        <activity android:name=".carr_LOdonto" />
+        <activity android:name=".carr_LOpto" />
+        <activity android:name=".carr_LRC" />
+        <activity android:name=".carr_LNI" />
+        <activity android:name=".carrera_esc" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".nesc_carr_LRC" />
+        <activity android:name=".nesc_carr_LNI" />
+        <activity android:name=".nesc_carr_CP" />
+        <activity android:name=".carr_CP" />
+        <activity android:name=".carrera_nesc" />
+        <activity android:name=".carrera_mixta" />
+        <activity android:name=".nesc_ENBA" />
+        <activity android:name=".carr_LNutri" />
+        <activity android:name=".esc_ENBA" />
+        <activity android:name=".esc_ENCB_UZ" />
+        <activity android:name=".esc_ENCB_UST" />
+        <activity android:name=".esc_sedes_ENCB" />
+        <activity android:name=".nesc_ESCA_UTep" />
+        <activity android:name=".nesc_ESCA_UST" />
+        <activity android:name=".esc_UPIITA" />
+        <activity android:name=".esc_UPIICSA" />
+        <activity android:name=".esc_UPIIH" />
+        <activity android:name=".esc_UPIIZ" />
+        <activity android:name=".esc_UPIIG" />
+        <activity android:name=".esc_UPIBI" />
+        <activity android:name=".esc_EST" />
+        <activity android:name=".esc_ESM" />
+        <activity android:name=".esc_ESIA_UZ" />
+        <activity android:name=".esc_ESIA_UTi" />
+        <activity android:name=".esc_ESIA_UTec" />
+        <activity android:name=".esc_ESIT" />
+        <activity android:name=".esc_ESIQIE" />
+        <activity android:name=".esc_ESIME_UZ" />
+        <activity android:name=".esc_ESIME_UTi" />
+        <activity android:name=".esc_ESIME_UC" />
+        <activity android:name=".esc_ESIME_UA" />
+        <activity android:name=".esc_ESFM" />
+        <activity android:name=".esc_ESEO" />
+        <activity android:name=".esc_ESE" />
+        <activity android:name=".esc_ESCOM" />
+        <activity android:name=".esc_ESCA_UTep" />
+        <activity android:name=".esc_ESCA_UST" />
+        <activity android:name=".esc_ENMH" />
+        <activity android:name=".esc_CICS_UMA" />
+        <activity android:name=".esc_CICS_UST" />
+        <activity android:name=".nesc_sedes_ESCA" />
+        <activity android:name=".esc_sedes_ESIA" />
+        <activity android:name=".esc_sedes_ESIME" />
+        <activity android:name=".esc_sedes_ESCA" />
+        <activity android:name=".esc_sedes_CICS" />
+        <activity android:name=".mix_EST" />
+        <activity android:name=".mixed_careers" />
+        <activity android:name=".mixed_schools" />
+        <activity android:name=".not_schoolar_careers" />
+        <activity android:name=".not_schoolar_schools" />
+        <activity android:name=".schoolar_careers" />
+        <activity android:name=".schoolar_schools" />
+        <activity android:name=".questions" />
+        <activity android:name=".mixed_choose_display_mode" />
+        <activity android:name=".not_scholar_choose_display_mode" />
+        <activity android:name=".scholar_choose_display_mode" />
+        <activity android:name=".welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".choose_modality" />
+    </application>
+
+</manifest>

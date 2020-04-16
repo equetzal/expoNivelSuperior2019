@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/guinda"
+    tools:context=".welcome">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/epns2019"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:contentDescription="@string/descripcionLogoExpo"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="40dp"
+        app:srcCompat="@drawable/epns2019" />
+
+    <TextView
+        android:id="@+id/selectModalityInstruction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/selectModalityInstruction"
+        android:textColor="@color/white"
+        android:visibility="visible"
+        android:textSize="15sp"
+        tools:text="@string/selectModalityInstruction" />
+
+    <LinearLayout
+        android:layout_marginVertical="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="40dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnGoToScholar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginVertical="10dp"
+            android:textColor="@color/guinda"
+            android:background="@color/white"
+            android:text="@string/modalidadEscolarizada" />
+
+        <Button
+            android:id="@+id/btnGoToNotScholar"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginVertical="10dp"
+            android:background="@color/white"
+            android:textColor="@color/guinda"
+            android:text="@string/modalidadNoEscolarizada" tools:targetApi="o" />
+
+        <Button
+            android:id="@+id/btnGoToMixed"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:background="@color/white"
+            android:layout_marginVertical="10dp"
+            android:textColor="@color/guinda"
+            android:text="@string/modalidadMixta" />
+    </LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/btnGoToQuestions"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:contentDescription="@string/descripcionInformacion"
+        android:layout_gravity="center_horizontal"
+        android:adjustViewBounds="true"
+        android:background="@drawable/question_icon"/>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingVertical="20dp"
+        android:paddingHorizontal="30dp"
+        android:contentDescription="@string/descripcionDLogo_ESCOM"
+        app:srcCompat="@drawable/ic_mx_ipn_escom_logo_blanco"/>
+
+
+</LinearLayout>

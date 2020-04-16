@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/guinda"
+    tools:context=".mixed_choose_display_mode">
+
+    <ImageView
+        android:id="@+id/btnBackToModalities"
+        android:layout_width="40dp"
+        android:paddingVertical="7dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="9dp"
+        android:contentDescription="@string/descripcionBack"
+        android:layout_height="70dp"
+        app:srcCompat="@drawable/back_row"/>
+
+    <TextView
+        android:id="@+id/modalidadMixta"
+        android:layout_marginVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/modalidadMixta"
+        android:textColor="@color/white"
+        android:visibility="visible"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:text="@string/modalidadMixta" />
+
+    <TextView
+        android:id="@id/selectViewOptions"
+        android:layout_marginVertical="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/seleccionaModoDeVisualizacion"
+        android:textColor="@color/white"
+        android:visibility="visible"
+        android:textSize="17sp"
+        tools:text="@string/seleccionaModoDeVisualizacion" />
+
+    <LinearLayout
+        android:layout_marginVertical="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="40dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnGoToMixedCareers"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginVertical="10dp"
+            android:textColor="@color/guinda"
+            android:background="@color/white"
+            android:text="@string/porCarrera" />
+
+        <Button
+            android:id="@+id/btnGoToMixedSchools"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginVertical="10dp"
+            android:background="@color/white"
+            android:textColor="@color/guinda"
+            android:text="@string/porEscuela" tools:targetApi="o" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

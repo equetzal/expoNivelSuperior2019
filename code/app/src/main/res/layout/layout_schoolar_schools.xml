@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".schoolar_careers">
+
+    <!-- Barra Superior -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/guinda"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/btnBackToViewMode"
+            android:layout_width="40dp"
+            android:paddingVertical="7dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="9dp"
+            android:contentDescription="@string/descripcionBack"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/back_row"/>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/txtEscuelasEscolarizadas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/escuelasEscolarizadas"
+            android:textSize="20sp"
+            android:layout_marginRight="20dp"
+            tools:layout_editor_absoluteX="379dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textAlignment="textEnd"/>
+
+    </LinearLayout>
+
+    <!-- Vista Deslizable -->
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/scrollEscuelasEscolarizadas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingHorizontal="20dp">
+
+            <!-- CICS -->
+            <LinearLayout
+                android:id="@+id/btnEscEscCICS"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compCICS"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrCICS"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/cics" />
+            </LinearLayout>
+
+            <!-- ENBA -->
+            <LinearLayout
+                android:id="@+id/btnEscEscENBA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compENBA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrENBA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/enba" />
+            </LinearLayout>
+
+            <!-- ENCB -->
+            <LinearLayout
+                android:id="@+id/btnEscEscENCB"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compENCB"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrENCB"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/encb" />
+            </LinearLayout>
+
+            <!-- ENMH -->
+            <LinearLayout
+                android:id="@+id/btnEscEscENMH"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compENMH"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrENMH"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/enmh" />
+            </LinearLayout>
+
+            <!-- ESCA -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESCA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESCA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESCA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esca" />
+            </LinearLayout>
+
+            <!-- ESCOM -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESCOM"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESCOM"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESCOM"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/escom" />
+            </LinearLayout>
+
+            <!-- ESE -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESE"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESE"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESE"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/ese" />
+            </LinearLayout>
+
+            <!-- ESEO -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESEO"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESEO"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESEO"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/eseo" />
+            </LinearLayout>
+
+            <!-- ESFM -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESFM"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESFM"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESFM"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esfm" />
+            </LinearLayout>
+
+            <!-- ESIA -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESIA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESIA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESIA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esia" />
+            </LinearLayout>
+
+            <!-- ESIME -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESIME"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESIME"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESIME"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esime" />
+            </LinearLayout>
+
+            <!-- ESIQIE -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESIQIE"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESIQIE"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESIQIE"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esiqie" />
+            </LinearLayout>
+
+            <!-- ESIT -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESIT"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESIT"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESIT"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esit" />
+            </LinearLayout>
+
+            <!-- ESM -->
+            <LinearLayout
+                android:id="@+id/btnEscEscESM"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compESM"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrESM"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/esm" />
+            </LinearLayout>
+
+            <!-- EST -->
+            <LinearLayout
+                android:id="@+id/btnEscEscEST"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compEST"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrEST"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/est" />
+            </LinearLayout>
+
+            <!-- UPIBI -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIBI"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIBI"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIBI"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upibi" />
+            </LinearLayout>
+
+            <!-- UPIICSA -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIICSA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIICSA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIICSA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upiicsa" />
+
+            </LinearLayout>
+
+            <!-- UPIIG -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIIG"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIIG"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIIG"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upiig" />
+            </LinearLayout>
+
+            <!-- UPIIH -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIIH"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIIH"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIIH"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upiih" />
+
+            </LinearLayout>
+
+            <!-- UPIITA -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIITA"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIITA"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIITA"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upiita" />
+            </LinearLayout>
+
+            <!-- UPIIZ -->
+            <LinearLayout
+                android:id="@+id/btnEscEscUPIIZ"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginVertical="13dp"
+                android:background="@drawable/school_box"
+                android:orientation="horizontal"
+                android:paddingLeft="10dp">
+
+                <LinearLayout
+                    android:layout_width="180dp"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingVertical="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="4"
+                        android:text="@string/compUPIIZ"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic" />
+
+                    <Space
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/abrUPIIZ"
+                        android:textColor="@color/gris"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <Space
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1" />
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/upiiz" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

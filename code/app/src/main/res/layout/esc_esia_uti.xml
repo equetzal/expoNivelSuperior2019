@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".esc_CICS_UMA"
+    android:layout_gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!--Back Row-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/backEsc"
+                android:layout_width="40dp"
+                android:paddingVertical="7dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="9dp"
+                android:contentDescription="@string/descripcionBack"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/back_row_guinda"/>
+        </LinearLayout>
+
+        <!--Escudo-->
+        <ImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:background="@drawable/esia"/>
+
+        <!--Nombre Escuela-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/guinda"
+            android:textColor="@color/white"
+            android:text="@string/compESIA_UTi"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            android:paddingHorizontal="30dp"
+            android:paddingVertical="13dp"
+            android:layout_marginTop="3dp"
+            android:textStyle="bold"/>
+
+        <!--Mapa-->
+        <TextView
+            android:layout_width="match_parent"
+            android:contentDescription="@string/descripcionMapaEscuela"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/mapa"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <ImageButton
+            android:id="@+id/btnMapa"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/map_box"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/mapa_esia_uti"
+            android:paddingVertical="3dp"
+            android:paddingHorizontal="3dp"
+            android:layout_marginHorizontal="40dp"
+            />
+
+        <!--Direccion-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/direccion"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="40dp"
+            android:textColor="@color/guinda"
+            android:textStyle="italic"
+            android:textSize="11sp"
+            android:text="@string/dirESIA_UTi"/>
+
+        <!--Oferta Educativa-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/ofertaEscolarizada"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <!-- Ing Geofisica -->
+        <LinearLayout
+            android:id="@+id/btnVerCarrIGeofi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@color/guinda"
+            android:gravity="center_horizontal"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="30dp"
+            android:paddingVertical="8dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/carrIGeofi"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="8dp"
+                android:layout_height="14dp"
+                android:background="@drawable/next_row" />
+        </LinearLayout>
+
+        <!-- Ing Geologica -->
+        <LinearLayout
+            android:id="@+id/btnVerCarrIGeolo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@color/guinda"
+            android:gravity="center_horizontal"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="30dp"
+            android:paddingVertical="8dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/carrIGeolo"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="8dp"
+                android:layout_height="14dp"
+                android:background="@drawable/next_row" />
+        </LinearLayout>
+
+        <!-- Ing Petrolera -->
+        <LinearLayout
+            android:id="@+id/btnVerCarrIPetro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@color/guinda"
+            android:gravity="center_horizontal"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="30dp"
+            android:paddingVertical="8dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/carrIPetro"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="8dp"
+                android:layout_height="14dp"
+                android:background="@drawable/next_row" />
+        </LinearLayout>
+
+        <!-- Ing Topografica y Fotogrametrica -->
+        <LinearLayout
+            android:id="@+id/btnVerCarrITF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@color/guinda"
+            android:gravity="center_horizontal"
+            android:layout_marginVertical="10dp"
+            android:layout_marginHorizontal="30dp"
+            android:paddingVertical="8dp"
+            android:paddingHorizontal="6dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/carrITF"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:layout_width="8dp"
+                android:layout_height="14dp"
+                android:background="@drawable/next_row" />
+        </LinearLayout>
+
+        <!--Sitios de Interes-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/guinda"
+            android:text="@string/sitios"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:layout_marginVertical="10dp"
+            android:paddingHorizontal="15dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_marginBottom="15dp">
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <!--Sitio Web-->
+            <LinearLayout
+                android:id="@+id/btnWebEsc"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="8dp"
+                android:background="@color/guinda">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:paddingTop="10dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    app:srcCompat="@drawable/web"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="8sp"
+                    android:textAlignment="center"
+                    android:text="@string/webESIA_UTi"/>
+            </LinearLayout>
+
+            <!--Becas-->
+            <LinearLayout
+                android:id="@+id/btnWebBecas"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="8dp"
+                android:background="@color/guinda">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/becas"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginHorizontal="5dp"
+                    android:textAlignment="center"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/becasCont"
+                    android:textSize="8sp"
+                    android:textAlignment="center"
+                    android:layout_marginHorizontal="5dp"
+                    />
+            </LinearLayout>
+
+            <!--Salud-->
+            <LinearLayout
+                android:id="@+id/btnWebSalud"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="8dp"
+                android:background="@color/guinda">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/salud"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginHorizontal="5dp"
+                    android:textAlignment="center"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/saludCont"
+                    android:textSize="8sp"
+                    android:textAlignment="center"
+                    android:layout_marginHorizontal="5dp"
+                    />
+            </LinearLayout>
+
+            <!--Software-->
+            <LinearLayout
+                android:id="@+id/btnWebSoftware"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:orientation="vertical"
+                android:layout_marginHorizontal="8dp"
+                android:background="@color/guinda">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/software"
+                    android:textStyle="bold"
+                    android:textSize="10sp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginBottom="2dp"
+                    android:layout_marginHorizontal="5dp"
+                    android:textAlignment="center"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/softwareCont"
+                    android:textSize="8sp"
+                    android:textAlignment="center"
+                    android:layout_marginHorizontal="5dp"
+                    />
+            </LinearLayout>
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

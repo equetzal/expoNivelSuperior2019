@@ -1,0 +1,3107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".schoolar_careers">
+
+    <!-- Barra Superior -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/guinda"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/btnBackToViewMode"
+            android:layout_width="40dp"
+            android:paddingVertical="7dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="9dp"
+            android:contentDescription="@string/descripcionBack"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/back_row"/>
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/txtCarrerasEscolarizadas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/carrerasEscolarizadas"
+            android:textSize="20sp"
+            android:layout_marginRight="20dp"
+            tools:layout_editor_absoluteX="379dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textAlignment="textEnd"/>
+
+    </LinearLayout>
+
+    <!-- Vista Deslizable -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <!--Sociales Administrativas-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@color/guinda"
+                android:layout_marginVertical="15dp"
+                android:text="@string/areaCSA"
+                android:textAlignment="center"
+                android:layout_marginHorizontal="2dp"
+                android:textSize="15sp"/>
+
+                <!--Contador Publico -->
+                <LinearLayout
+                    android:id="@+id/btnCarrCP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campCP"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrCP"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Administracion Industrial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLAI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLAI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLAI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Administracion y Desarrollo Empresarial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLADE"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLADE"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLADE"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Archivonomia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLPA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLPA"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLPA"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Biblioteconomia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLPB"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLPB"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLPB"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Economia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLEcono"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLEcono"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLEcono"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Negocios Internacionales -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLNI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLNI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLNI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Relaciones Comerciales -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLRC"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLRC"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLRC"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Turismo -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLTuri"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLTuri"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLTuri"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+            <!--Medico Biologicas -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@color/guinda"
+                android:layout_marginVertical="15dp"
+                android:text="@string/areaCMB"
+                android:textAlignment="center"
+                android:layout_marginHorizontal="2dp"
+                android:textSize="15sp"/>
+
+                <!-- Nutricion -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLNutri"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLNutri"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLNutri"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Optometria -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLOpto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLOpto"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLOpto"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Psicologia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLPsico"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLPsico"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLPsico"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Biologia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLBio"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLBio"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLBio"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Enfermeria -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLEnf"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLEnf"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLEnf"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Enfermeria y Obstetricia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLEO"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLEO"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLEO"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Odontologia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLOdonto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLOdonto"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLOdonto"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Trabajo Social -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLTS"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLTS"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLTS"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Cirujano Homeopata -->
+                <LinearLayout
+                    android:id="@+id/btnCarrMCH"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campMCH"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrMCH"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Cirujano Partero -->
+                <LinearLayout
+                    android:id="@+id/btnCarrMCP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campMCP"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrMCP"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Quimico Bacteriologo Paracitologo -->
+                <LinearLayout
+                    android:id="@+id/btnCarrQBP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campQBP"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrQBP"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Quimico Farmaceutico Industrial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrQFI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campQFI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrQFI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+            <!--Ingenieria -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:background="@color/guinda"
+                android:layout_marginVertical="15dp"
+                android:text="@string/areaICFM"
+                android:textAlignment="center"
+                android:layout_marginHorizontal="2dp"
+                android:textSize="15sp"/>
+
+                <!-- Aeronautica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIAero"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIAero"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIAero"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Ambiental -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIAmb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIAmb"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIAmb"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Biomedica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIBiomed"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIBiomed"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIBiomed"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Bionica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIBioni"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIBioni"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIBioni"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Bioquimica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIBioqui"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIBioqui"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIBioqui"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Biotecnologia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIBiotec"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIBiotec"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIBiotec"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Civil -->
+                <LinearLayout
+                    android:id="@+id/btnCarrICivil"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campICivil"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrICivil"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Electrica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIElec"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIElec"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIElec"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Alimentos -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIAlim"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIAlim"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIAlim"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Arquitectura -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIArqui"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIArqui"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIArqui"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Computacion -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIComp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIComp"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIComp"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Comunicaciones y Electronica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrICE"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campICE"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrICE"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Control y Automatizacion -->
+                <LinearLayout
+                    android:id="@+id/btnCarrICA"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campICA"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrICA"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Energia -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIEner"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIEner"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIEner"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Informatica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIInfor"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIInfor"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIInfor"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Metalurgia y Materiales -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIMM"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIMM"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIMM"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Robotica Industrial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIRI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIRI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIRI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Sistemas Ambientales -->
+                <LinearLayout
+                    android:id="@+id/btnCarrISAmb"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campISAmb"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrISAmb"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Sistemas Automotrices -->
+                <LinearLayout
+                    android:id="@+id/btnCarrISAuto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campISauto"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrISAuto"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Sistemas Computacionales -->
+                <LinearLayout
+                    android:id="@+id/btnCarrISC"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campISC"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrISC"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Transporte -->
+                <LinearLayout
+                    android:id="@+id/btnCarrITrans"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campITrans"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrITrans"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Farmaceutica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIFarm"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIFarm"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIFarm"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Geofisica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIGeofi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIGeofi"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIGeofi"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Geologica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIGeolo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIGeolo"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIGeolo"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Industrial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIInd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIInd"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIInd"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Matematica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIMate"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIMate"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIMate"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Mecanica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIMecani"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIMecani"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIMecani"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Mecatronica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIMecatro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIMecatro"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIMecatro"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Metalurgica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIMetal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIMetal"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIMetal"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Petrolera -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIPetro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIPetro"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIPetro"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Quimica Industrial -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIQI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIQI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIQI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Quimica Petrolera -->
+                <LinearLayout
+                    android:id="@+id/btnCarrIQP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campIQP"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrIQP"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Telematica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrITelem"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campITelem"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrITelem"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Textil -->
+                <LinearLayout
+                    android:id="@+id/btnCarrITex"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campITex"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrITex"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Topografica y Fotometrica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrITF"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="4"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/campITF"
+                        android:textColor="@color/gris"
+                        android:textSize="10sp" />
+
+                    <Space
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <ImageView
+                        android:layout_width="8dp"
+                        android:layout_height="14dp"
+                        android:background="@drawable/next_row" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_weight="6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/carrITF"
+                    android:textSize="12sp"
+                    android:textStyle="bold|italic"
+                    android:textColor="@color/white"
+
+                    />
+            </LinearLayout>
+
+
+                <!-- Ciencias de la Informatica -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLCI"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLCI"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLCI"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+                <!-- Fisica y Matematicas -->
+                <LinearLayout
+                    android:id="@+id/btnCarrLFM"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/campLFM"
+                            android:textColor="@color/gris"
+                            android:textSize="10sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/carrLFM"
+                        android:textSize="12sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>
+
+
+
+            <!--Carrera -->
+                <!--<LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:background="@color/guinda"
+                    android:orientation="vertical"
+                    android:weightSum="10"
+                    android:paddingVertical="5dp"
+                    android:paddingHorizontal="9dp"
+                    android:layout_marginHorizontal="15dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Escuelas"
+                            android:textColor="@color/gris"
+                            android:textSize="12sp" />
+
+                        <Space
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1" />
+
+                        <ImageView
+                            android:layout_width="8dp"
+                            android:layout_height="14dp"
+                            android:background="@drawable/next_row" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_weight="6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Carreras"
+                        android:textSize="15sp"
+                        android:textStyle="bold|italic"
+                        android:textColor="@color/white"
+
+                        />
+                </LinearLayout>-->
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

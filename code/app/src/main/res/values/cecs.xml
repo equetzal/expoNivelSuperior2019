@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Nombres de Centros de Educación Continua-->
+    <string name="Cajeme">Centro de Educación Continua, Unidad Cajeme</string>
+    <string name="LinkCajeme">https://www.ceccajeme.ipn.mx</string>
+    <string name="Campeche">Centro de Educación Continua, Unidad Campeche</string>
+    <string name="LinkCampeche">http://www.cecucampeche.ipn.mx</string>
+    <string name="Cancún">Centro de Educación Continua, Unidad Cancún</string>
+    <string name="LinkCancún">https://www.cecuc.ipn.mx/v3/index.php</string>
+    <string name="Culiacán">Centro de Educación Continua, Unidad Culiacán</string>
+    <string name="LinkCuliacán">http://148.204.128.100/CecuCuliacan/#!/home</string>
+    <string name="Durango">Centro de Educación Continua, Unidad Durango</string>
+    <string name="LinkDurango">https://www.cecdurango.ipn.mx</string>
+    <string name="Hidalgo">Centro de Educación Continua, Unidad Hidalgo</string>
+    <string name="LinkHidalgo">https://www.cecuhi.ipn.mx</string>
+    <string name="Mochis">Centro de Educación Continua, Unidad Los Mochis</string>
+    <string name="LinkMochis">https://www.cecumochis.ipn.mx</string>
+    <string name="Mazatlán">Centro de Educación Continua, Unidad Mazatlán</string>
+    <string name="LinkMazatlán">https://www.cecmazatlan.ipn.mx</string>
+    <string name="MendezDocurro">Centro de Educación Continua, Unidad Mendez Docurro</string>
+    <string name="LinkMendezDocurro">https://www.cec-mendezdocurro.ipn.mx/Paginas/Inicio.aspx</string>
+    <string name="Morelia">Centro de Educación Continua, Unidad Morelia</string>
+    <string name="LinkMorelia">https://www.cecumorelia.ipn.mx</string>
+    <string name="Morelos">Centro de Educación Continua, Unidad Morelos</string>
+    <string name="LinkMorelos">https://www.cecmorelos.ipn.mx/Paginas/Inicio.aspx</string>
+    <string name="Oaxaca">Centro de Educación Continua, Unidad Oaxaca</string>
+    <string name="LinkOaxaca">https://www.cecoax.ipn.mx</string>
+    <string name="Reynosa">Centro de Educación Continua, Unidad Reynosa</string>
+    <string name="LinkReynosa">https://www.cecureynosa.ipn.mx/Paginas/Inicio.aspx</string>
+    <string name="Tampico">Centro de Educación Continua, Unidad Tampico</string>
+    <string name="LinkTampico">https://www.cecutampico.ipn.mx</string>
+    <string name="Tijuana">Centro de Educación Continua, Unidad Tijuana</string>
+    <string name="LinkTijuana">https://www.cectijuana.ipn.mx/v2017/</string>
+    <string name="Tlaxcala">Centro de Educación Continua, Unidad Tlaxcala</string>
+    <string name="LinkTlaxcala">https://www.cectijuana.ipn.mx/v2017/</string>
+</resources>

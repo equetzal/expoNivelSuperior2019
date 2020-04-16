@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="requisitosTodo">Cumplir en tiempo y forma con cada una de las etapas del Proceso de Admisión señaladas en la convocatoria de ingreso al Nivel Superior Sistema Escolarizado del IPN Tales como:\n
+Certificado oficial de estudios de nivel medio superior\n
+Certificado de estudios de secundaria\n
+Clave Única de Registro de Población (CURP)\n
+Acta de nacimiento\n
+Aprobar el examen de ingreso\n
+6 fotografías tamaño infantil</string>
+
+	<string name="objIAmb">Formar ingenieros que atiendan a las demandas y necesidades de la Administración Pública iniciativa privada y la sociedad en materia de ambiente con capacidad de administrar diseñar construir y operar sistemas para la prevención mitigación o eliminación de contaminantes en suelo agua y aire Además de participar en la gestión evaluación y planeación de la sustentabilidad de los recursos naturales en forma ética y eficiente.</string>
+	<string name="ingIAmb">Respeto y honestidad</string>
+	<string name="egreIAmb">La Carrera de Ingeniería Ambiental de la Unidad Profesional Interdisciplinaria de Biotecnología del IPN permite conocer las acciones a desarrollar para lograr un equilibrio entre las actividades humanas y la conservación del medio ambiente a través de una enseñanza basada en conocimientos habilidades y competencias que permitan diseñar instalar medir y evaluar sistemas productivos apegados a un bienestar social ambiental y económico en la búsqueda de una mejor calidad de vida Para lograrlo a la Unidad Profesional Interdisciplinaria de Biotecnología le interesa formar Ingenieros Ambientales que sean críticos que reciban información técnica y científica actualizada de profesores con amplia experiencia laboral académica y docente y pone especial énfasis en el desarrollo del individuo para formar una mentalidad flexible que facilite su rápida adaptación a los continuos cambios que presenta la tecnología y el conocimiento Finalmente el objetivo es formar Ingenieros Ambientales responsables con nuestra sociedad dentro del marco normativo nacional e internacional para dar soluciones ambientales que los tiempos modernos necesitan.</string>
+	<string name="mapaCurrIAmbUPIIZ">https://www.ipn.mx/assets/files/zacatecas/docs/oferta_educativa/ambiental.pdf</string>
+	<string name="mapaCurrIAmbUPIBI">https://www.ipn.mx/assets/files/upibi/docs/Estudiantes/GestionEscolar/Documentos/MapaCurricular/PlanDeEstudiosDeIngenieriaAmbiental.pdf</string>
+
+	<string name="objIBiomed">Formar profesionista en Ingeniería Biomédica con sentido de responsabilidad actitudes y valores que contribuyan al desarrollo tecnológico la investigación la extensión y a incrementar la eficiencia de los procesos de atención a la salud mediante la conjunción de las áreas médicas las ciencias exactas la administración y la conservación hospitalaria.</string>
+	<string name="ingIBiomed">Perseverancia honestidad honradez</string>
+	<string name="egreIBiomed">Diseñar desarrollar innovar adaptar y mantener en condiciones óptimas equipos médicos en el área de la salud del sector público y/o privado a nivel de: 1 Prevención de entidades patológicas 2 Diagnóstico de entidades patológicas 3 Terapia de entidades patológicas Diseñar desarrollar innovar adaptar y mantener en condiciones óptimas instrumentos equipos instalaciones y/o maquinaria usada en investigación médico biológica a niveles: 1 Básico 2 Aplicado (clínico) Diseñar desarrollar innovar adaptar y mantener en condiciones óptimas materiales instrumentos equipos y/o maquinaria usada en la enseñanza de las ciencias médico biológicas ya sea: ciencias biológicas básicas ciencias médico biológicas de aplicación en humanos y ciencias médico-biológicas de aplicación en animales.</string>
+	<string name="mapaCurrIBiomedUPIBI">https://www.upibi.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Ing-Biomedica.pdf</string>
+
+	<string name="objIBioni">Forma Ingenieros en Biónica con una sólida formación interdisciplinaria que le permita el estudio de los organismos vivos en su estructura, función, alteraciones y la interrelación con el medio, para crear modelos inspirados en la biología y emplearlos en la solución de problemas de su entorno.</string>
+	<string name="ingIBioni">El aspirante debe poseer conocimientos generales en el área de Ciencias Físico-Matemáticas que le permitan hacer razonamiento para la solución de problemas, computación, la capacidad de trabajar en equipo con actitud proactiva de liderazgo, tener conocimientos básicos del idioma inglés, además de conducirse con ética, responsabilidad, tolerancia y equidad.</string>
+	<string name="egreIBioni">Profesional capaz de desarrollar análogos biológicos para solucionar a partir de la ingeniería problemas ambientales, contextualizando los problemas a partir de una formación interdisciplinaria en las áreas médico-biológicas, de desarrollo tecnológico y con filosofía biomimética; que promueva con actitud emprendedora y proactiva la generación y administración de proyectos dentro de un marco de respeto y cuidado de la vida, integridad ecológica, justicia social y económica.</string>
+	<string name="mapaCurrIBioniUPIITA">https://www.upiita.ipn.mx/images/academica/planes/bionica/trayectoria%20ideal%20de%20ingeniera%20bionica.jpg</string>
+
+	<string name="objIBioqui">La carrera de Ingeniero Bioquímico es el de formar profesionales capaces de ejecutar supervisar y dirigir las actividades propias para resolver problemas relacionados con las áreas de alimentos las fermentaciones y los productos biológicos además será capaz de diseñar productos y tecnologías en las mismas áreas.</string>
+	<string name="ingIBioqui">El aspirante debe estar capacitado sólidamente en ciencias básicas como biología física química y matemáticas
+        Debe estar dispuesto a incursionar en las ciencias biológicas como bioquímica microbiología bioquímica de los alimentos microbiología industrial entre otras Debe estar dispuesto a aprender los diversos aspectos humanos tecnológicos y de ingeniería que abarcará su futura actividad profesional por ejemplo:
+        Cómo funciona el equipo industrial y cómo se debe opera para lograr un proceso íntegro
+        Cómo se elaboran los diversos productos y cómo se pueden mejorar e innovar
+        Cómo interaccionar adecuadamente con el resto del personal para integrarse plenamente a la comunidad
+        Cómo trabajar con sentido ético social y ambiental en organizaciones públicas o privadas del sector alimentario y biotecnológico
+        Es deseable que sea activo emprendedor y que tenga conocimientos del idioma inglés y de computación</string>
+	<string name="egreIBioqui">Será capaz de realizar trabajo colaborativo multidisciplinario e interdisciplinario para operar mantener mejorar optimizar seleccionar adaptar diseñar desarrollar innovar asimilar los diversos componentes de una organización productiva como productos procesos técnicas de operación equipos sistemas de calidad sistemas de comercialización y sistemas anticontaminación de los sectores alimentario y biotecnológico; integrando el capital humano para el buen funcionamiento de una planta industrial con sentido ético social y ecológico.</string>
+	<string name="mapaCurrIBioquiENCB">https://www.encb.ipn.mx/licenciatura/ingenieriaBioquimica/index.html</string>
+
+	<string name="objIBiotec">Formar profesionistas de alto nivel en el campo de la Ingeniería Biotecnológica que contribuyan al bienestar y desarrollo tecnológico nacional mediante la aplicación y generación de conocimientos que se vinculen a las necesidades de los sectores productivo y social</string>
+	<string name="ingIBiotec">Para ingresar a la carrera de ingeniería biotecnológica se requiere:\n
+Haber concluido los estudios de bachillerato preferentemente en área físico matemática o medico biológica\n
+Presentar y ser aceptado en el examen de ingreso al Instituto\n
+Los demás que marque la convocatoria de ingreso al Instituto\n
+Conocimientos previos de biología química orgánica matemáticas física inglés y computación</string>
+    <string name="egreIBiotec">Conocimientos\n
+Matemáticas química física biología y ciencias de la comunicación pertinentes para el desarrollo de la Ingeniería Biotecnológica y para el uso racional de los recursos naturales Ingeniería de producción y recuperación de productos biotecnológicos Desarrollo social ética economía y administración pertinentes para la comprensión del entorno económico-social y para el desarrollo de la capacidad de autoempleo y desarrollo de empresas de base tecnológica Gramática fonética y sintáctica en español e inglés\n
+\n
+Habilidades\n
+Diseñar desarrollar operar y optimizar bioprocesos para la producción y recuperación de productos biotecnológicos Comunicación oral y escrita (Español e Inglés) Pensamiento lógico Búsqueda y análisis de información Conjunción de conocimientos interdisciplinarios Adaptabilidad y convivencia social Organización de equipos de trabajo Administración de recursos Ejecución de trabajos coordinados * Actitudes y Valores Honestidad Respeto Tolerancia Perseverancia Responsabilidad social Disponibilidad al trabajo Actualización constante Mejora continua</string>
+    <string name="mapaCurrIBiotecUPIBI">https://www.ipn.mx/assets/files/upibi/docs/Estudiantes/GestionEscolar/Documentos/MapaCurricular/PlanDeEstudiosDeIngenieriaBiotecnologica.pdf</string>
+	<string name="mapaCurrIBiotecUPIIG">http://www.upiig.ipn.mx/Paginas/Ingeniería-Biotecnológica.aspx</string>
+
+	<string name="objICivil">Preparar ingenieros civiles con una perspectiva centrada en el desarrollo del País fomentando la participación en investigaciones multidisciplinarias dirigidas a buscar soluciones integrales a los graves problemas de desarrollo urbano y rural de las poblaciones En el análisis diseño construcción operación mantenimiento administración de la infraestructura que requiere el país u otros países para desarrollarse sin afectar su entorno y sin descuidar el desarrollo científico.</string>
+	<string name="ingICivil">Disciplina orden responsabilidad y constancia en el estudio Capacidad de adaptación y para trabajar en equipo Convencimiento y confianza en que alcanzará las metas que se haya fijado.</string>
+	<string name="egreICivil">Sólida formación en ciencias básicas como son: Matemáticas Física y Química; en ciencias de la Ingeniería tales como: Estructuras Hidráulica Mecánica de Suelos Ingeniería de Sistemas Ingeniería Sanitaria Vías Terrestres y Construcción así como el uso y operación de herramientas computacionales correspondientes a éstas áreas de conocimiento También requiere tener una formación firme en las áreas de ciencias sociales y administrativas para su buen desempeño como parte de la sociedad permitiéndole así dar solución y ejecución de la infraestructura que demanda el país.</string>
+	<string name="mapaCurrICivilESIA_UZ">https://www.ipn.mx/assets/files/esiaz/docs/estudiantes/MapaCurricular.pdf</string>
+
+	<string name="objIElec">La carrera de Ingeniería Eléctrica, es una de las carreras que ofrece la Escuela Superior de Ingeniería Mecánica y Eléctrica, y la cual tiene como objetivo:
+    Formar profesionales capaces de planear, proyectar, diseñar, innovar, controlar, instalar, construir, coordinar, dirigir, mantener y administrar equipos y sistemas, aparatos y dispositivos, destinados a la generación, transformación y aprovechamiento de la energía Eléctrica en todas sus aplicaciones, así como operar equipos y materiales eléctricos tomando en cuenta su interrelación con los sistemas de potencia, distribución y utilización; además de participar en la construcción, mantenimiento, conservación y Administración de la planta productiva, con una visión integral del desarrollo social, económico e industrial del país.</string>
+	<string name="ingIElec">Responsabilidad respeto honestidad tolerancia y solidaridad social.</string>
+	<string name="egreIElec">Funciones y Tareas Profesionales Diseñar construir y mantener dispositivos equipos y máquinas de la rama de la ingeniería cursada Proyectar diseñar y poner en operación de plantas y sistemas que integren equipos de la rama de su ingeniería Investigar adaptar y construir nuevas tecnologías y conocimiento Plantear organizar asesorar y dirigir empresas de servicios fabricación y mantenimiento del área de su competencia Disposición para el trabajo metódico eficiente individual y de grupo.</string>
+	<string name="mapaCurrIElecESIME_UZ">http://www.escom.ipn.mx/docs/appExPro/IE_ESIME.pdfe</string>
+
+	<string name="objIAero">Formar ingenieros con los conocimientos fundamentales en las diversas disciplinas de la Ingeniería Aeronáutica que les permitan desempeñarse con eficiencia en los campos de: investigación diseño construcción instalación operación mantenimiento y administración de los sistemas de aeronaves así como la operación de la infraestructura de soporte de las empresas e instituciones del sector transporte aéreo.</string>
+	<string name="ingIAero">Para que puedas ser un Ingeniero Aeronáutico debes poseer bases sólidas en conocimientos matemáticos como algebra, trigonometría y geometría analítica y entender los fundamentos del cálculo diferencial e integral. Tener un entendimiento completo de las leyes de Newton y conversión de unidades
+    Responsabilidad en tus estudios lo cual implica que sepas definir tus tiempos y horarios para atender esta actividad
+    Debes tener un espíritu curioso que te lleve a encontrar respuesta a tus preguntas
+    Debes comprender la importancia de trabajar en equipo la solidaridad y la honradez
+    Es muy deseable que ya domines en algún porcentaje la lengua inglesa y que uno de tus pasatiempos sea la lectura.</string>
+	<string name="egreIAero">El egresado de la carrera de ingeniería aeronáutica está capacitado para:
+    Construir diseñar y dar mantenimiento a dispositivos máquinas y equipos en la rama aeronáutica
+    Adaptar y construir nuevas tecnologías
+    Planear asesorar asesorar y dirigir empresas de fabricación servicios y mantenimientos en el área
+    Capacitar instruir y entrenar en las ramas de su competencia
+    Dar cumplimiento a lo dispuesto en las normas nacionales e internacionales en el área</string>
+	<string name="mapaCurrIAeroESIME_UTi">https://www.esimetic.ipn.mx/oferta-educativa/ingenieria-aeronautica.html</string>
+	<string name="mapaCurrIAeroUPIIG">http://www.upiig.ipn.mx/Oferta-Educativa/Paginas/inicio.aspx#of-edu1|ChildVerticalTab_11</string>
+
+	<string name="objIAlim">Formar profesionales del más alto nivel en el campo de la Ingeniería en Alimentos que contribuyan al desarrollo tecnológico nacional mediante la generación y aplicación de conocimientos que se vinculen a las necesidades que en esta área se presenten en los sectores productivos y sociales Formar profesionales integralmente con una sólida formación y con conocimientos tecnológicos en el campo de la Ingeniería en Alimentos que contribuyan a resolver problemas y plantear nuevas alternativas.</string>
+	<string name="ingIAlim">Generar a través de las actividades de investigación y desarrollo conocimientos bienes y servicios tecnológicos que coadyuven al desarrollo del sector de alimentos en el país Vincular las actividades de los estudios e investigaciones en Ingeniería en Alimentos con los sectores productivos del país e instituciones normativas a fin de establecer una integración vertical que permita tener participación en la solución de los problemas nacionales en el área Difundir el conocimiento tecnológico en el campo de la Ingeniería en Alimentos Generar a través de las actividades de investigación y desarrollo conocimientos bienes y servicios tecnológicos y biotecnológicos Vincular las actividades de los estudios e investigaciones en Ingeniería en Alimentos con los sectores productivos del país e instituciones normativas Capaz de aplicar conocimientos y herramientas científicas y tecnológicas para preservar transformar desarrollar y mejorar alimentos además de crear y administrar sistemas de producción industrial bajo estándares nacionales e internacionales.</string>
+	<string name="egreIAlim">Participar en el diseño localización evaluación distribución instalación y puesta en marcha de plantas procesadoras de alimentos
+        Aplicar técnicas para adaptación y evaluación de procesos equipo y maquinaria con relación a la calidad requerida de alimentos procesados.
+        Aplicar técnicas sistemas y procedimientos que optimicen la eficiencia que incrementen la productividad en la industrialización de alimentos integrando y articulando la cadena productiva.
+        Supervisar y controlar procesos maquinaria equipo y las condiciones generales de operación en las plantas y unidades procesadoras de alimentos.
+        Diseñar sistemas y procesos que inciden en la mejora en las condiciones de almacenamiento distribución y manejo de alimentos a fin de disminuir las pérdidas en el campo y las zonas productoras de perecederos.
+        Utilizar las técnicas de simulación en el desarrollo y optimización de procesos y productos alimenticios.</string>
+	<string name="mapaCurrIAlimUPIBI">https://www.ipn.mx/assets/files/upibi/docs/Estudiantes/GestionEscolar/Documentos/MapaCurricular/PlanDeEstudiosDeIngenieriaEnAlimentos.pdf</string>
+	<string name="mapaCurrIAlimUPIIZ">https://www.ipn.mx/assets/files/zacatecas/docs/oferta_educativa/alimentos.pdf</string>
+
+	<string name="objIComp">Formar profesionistas con alto sentido ético y de compromiso con su comunidad en el campo tecnológico de la computación capaces de: abordar y tomar decisiones con creatividad orden y método en relación a problemas tecnológicos; capaces de diseñar construir evaluar y dirigir desde diferentes puntos de vista y con fundamentos científico-tecnológicos dispositivos o sistemas que resuelvan problemas del área de cómputo.</string>
+	<string name="ingIComp">Debe contar con la habilidad para el cálculo matemático agilidad de razonamiento y discernimiento habilidad para entender y proyectar relaciones mecánicas simples y de conjunto habilidad organizacional de análisis y síntesis adaptabilidad en lo industrial y social debe contar con habilidad para el dibujo trabajo de equipo aplicar los conocimientos teóricos a la práctica diagnóstico de fallas y soluciones.</string>
+	<string name="egreIComp">El egresado de la ESIME Culhuacán a través del proceso educativo obtiene una formación profesional con espíritu crítico ante la realidad que le permitirá emplear recursos altamente calificados; utilizando la tecnología más reciente para estar a la vanguardia y adquirir el control de la calidad total en los procesos industriales junto con un sentido de responsabilidad social de transformación preservando el medio ambiente y realizar su actividad profesional en empresas del sector público o privado como son:
+Telefónicas,
+Comunicaciones,
+Construcción,
+Transporte,
+Televisivas,
+Instituciones de investigación etc</string>
+	<string name="mapaCurrICompESIME_UC">http://sacadem.esimecu.ipn.mx/public/ic/planes/mapacurricularic.pdf</string>
+
+	<string name="objICE">Formar profesionistas con alto sentido ético y de compromiso con su comunidad en el campo tecnológico de la electrónica y las comunicaciones, capaces de: abordar y tomar decisiones con creatividad, orden y método, en relación a problemas tecnológicos, capaces de diseñar, construir y evaluar, desde diferentes puntos de vista y con fundamentos científico-tecnológicos, dispositivos o sistemas que resuelvan problemas del área. Con formación pertinente para comunicar sus ideas mediante el lenguaje e integrar proyectos que incluyan impacto y viabilidad. Que Valoren la importancia del trabajo en equipo, promoviendo la cooperación, la tolerancia, la solidaridad y la responsabilidad, así mismo que analicen y valoren los efectos que el desarrollo tecnológico provoca en el mundo del trabajo, el medio socioeconómico y el medio ambiente .</string>
+	<string name="ingICE">Un aspirante a estudiar la Ingeniería en Comunicaciones y Electrónica debe tener:
+        Conocimientos teóricos y prácticos de las ciencias Física Química y Matemáticas Habilidades manuales creatividad y capacidad para resolver problemas
+        Integrarse al trabajo en forma interdisciplinaria
+        Plantear con estructura técnica reportes de nuevas respuestas
+        Todo lo anterior con alto sentido común que le permitirá discernir conceptos y criterios de ingeniería en su futura profesión con responsabilidad seriedad y respeto</string>
+	<string name="egreICE">El Ingeniero en Comunicaciones y Electrónica desempeña principalmente las funciones de: investigación planeación diseño producción instalación mantenimiento operación y dirección dentro de su área.</string>
+	<string name="mapaCurrICEESIME_UZ">https://www.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-comunicaciones-electronica.pdf</string>
+	<string name="mapaCurrICEESIME_UC">http://sacadem.esimecu.ipn.mx/public/ice/planes/Plan%20de%20Estudios%20Sintético.pdf</string>
+
+	<string name="objICA">Formar profesionales capaces de proyectar diseñar innovar dirigir mantener e investigar sobre equipos dispositivos y sistemas de control tomando en cuenta la calidad de los procesos de trabajo el uso eficiente de la energía y los recursos naturales los sistemas de información y el impacto ambiental con una visión integral del desarrollo social económico e industrial del país.</string>
+	<string name="ingICA">Responsabilidad respeto honestidad tolerancia y solidaridad social</string>
+	<string name="egreICA">El profesional egresado de esta carrera cuenta con una sólida formación interdisciplinaria en ciencias aplicadas de la ingeniería orientada a la solución de problemas de la planta industrial en el campo de la electrónica el control de procesos la automatización la instrumentación la aplicación de sistemas analógicos y digitales Está capacitado para planear proyectar diseñar construir conservar y mantener dispositivos equipos y sistemas de control industrial que utilicen o combinen distintos principios derivados de la neumática hidráulica mecánica electrónica y la cibernética.</string>
+	<string name="mapaCurrICAESIME_UZ">http://www.escom.ipn.mx/docs/appExPro/ICA_ESIME.pdf</string>
+
+	<string name="objIEner">Formar profesionales capaces de diseñar, planear, proyectar, construir, operar e innovar, tecnologías relacionadas con el aprovechamiento de los recursos energéticos, a través de la implementación de soluciones a problemas, basados en el uso y aprovechamiento de tecnologías limpias, así como de bajo impacto ambiental.</string>
+	<string name="ingIEner">Los requisitos que debe cubrir el aspirante para el ingreso al IPN son:
+        Haber concluido estudios de educación media superior.
+        Cumplir en tiempo y forma con cada una de las etapas del proceso de admisión señaladas en la convocatoria de ingreso al nivel superior del IPN.</string>
+	<string name="egreIEner">El ingeniero en energía será capaz de:
+        Diseñar e innovar procesos para producción, distribución y gestión de energías convencionales desde un enfoque más limpio y eficiente.
+        Implementar y desarrollar tecnologías emergentes y nuevas tecnologías para el adecuado aprovechamiento de energías renovables, en los sectores público y privado, contribuyendo a la diversificación de la matriz energética dentro de un marco de competencia regional e internacional bajo los principios de la sustentabilidad y de la ética.
+        Evaluar la eficiencia energética en unidades productivas para elevar su competitividad en el mercado.
+        Asesorar la toma de decisiones en materia de energía, bajo la normatividad ambiental y energética aplicable.
+        Proponer proyectos que permitan la conversión e integración de fuentes convencionales con fuentes renovables de energía.</string>
+	<string name="mapaCurrIEnerUPIITA">https://www.upiita.ipn.mx/images/academica/planes/energia/MAPA%20CURRICULAR%20ENERGIA.jpg</string>
+
+    <string name="objIInfor">Formar profesionales interdisciplinarios con un espíritu innovador y emprendedor que de manera integral interpreten en un marco de valores, rigor metodológico y estándares de calidad nacional e internacional, la problemática que se les presente en el ámbito informático, construyendo soluciones automatizadas que impliquen software y hardware, así como la gestión de proyectos de desarrollo informáticos aplicando la ingeniería de software y el uso racional de las TlCs en el desarrollo de software de clase mundial con capacidad de operar de forma óptima en los modernos ambientes complejos y demandantes que las sociedades requieren.</string>
+    <string name="ingIInfor">Los aspirantes al ingresar a la Licenciatura de Ingeniería en Informática deberán contar con los conocimientos y habilidades básicas del nivel medio superior que garanticen el adecuado desempeño en el nivel superior, así como:\n
+Actitudes y Valores necesarios para el desarrollo de su proceso formativo\n
+Una posición activa frente al estudio y desarrollo de las actividades, proyectos y trabajos requeridos coincidentes.</string>
+    <string name="egreIInfor">El Ingeniero en Informática será un profesionista interdisciplinario, que pueda laborar en cualquier tipo de organización pública o privada, donde implementa y administra sistemas de software de calidad mundial; proporciona soluciones de transmisión de voz y datos; aplica las metodologías de normalización y calidad en el proceso de desarrollo y administración de software y hardware garantizando su seguridad; y propone procesos planificados de innovación en el campo de la Ingeniería Informática a través de la investigación y desarrollo de soluciones de software y hardware, acordes a las necesidades actuales.</string>
+    <string name="mapaCurrIInforUPIICSA">http://www.escom.ipn.mx/docs/appExPro/IInf_UPIICSA.pdf</string>
+
+    <string name="objIMM">Formar profesionistas en el campo de la metalurgia y materiales capaces de contribuir a la solución de problemas actuales de la industria extractiva y de manufactura acorde con las necesidades de desarrollo tecnológico del país y de los requerimientos multidisciplinarios del profesional actual</string>
+	<string name="ingIMM">El egresado desarrollará actividades relacionadas a la obtención procesamiento caracterización y evaluación de minerales metales cerámicos polímeros y compósitos; tendrá sólidos conocimientos en las Ciencias Básicas y fundamentales de la Ingeniería en Metalurgia y Materiales con un manejo amplio de sistemas informáticos donde se incluya la simulación con la posibilidad de desarrollar tecnología enfocada a la ingeniería procesamiento y manejo de nuevos materiales con conocimientos y competencias que le permitan para diseñar y operar procesos metalúrgicos principalmente y con un nivel de ingles que le permita comunicarse con un contexto global Desarrollará habilidades tales como liderazgo capacidad organizacional de integrar y analizar información alta capacidad para adaptarse a situaciones cambiantes pensamiento estratégico iniciativa emprendedor capacidad analítica y de trabajo en quipo facilidad para comunicarse y con valores entre los que destaquen la ética la honradez y responsabilidad con lo que podrá coadyuvar al desarrollo de la industria nacional y podrá asumir cargos de alta responsabilidad.</string>
+	<string name="egreIMM">El egresado desarrollará actividades relacionadas a la obtención procesamiento caracterización y evaluación de minerales metales cerámicos polímeros y compósitos; tendrá sólidos conocimientos en las Ciencias Básicas y fundamentales de la Ingeniería en Metalurgia y Materiales con un manejo amplio de sistemas informáticos donde se incluya la simulación con la posibilidad de desarrollar tecnología enfocada a la ingeniería procesamiento y manejo de nuevos materiales con conocimientos y competencias que le permitan para diseñar y operar procesos metalúrgicos principalmente y con un nivel de inglés que le permita comunicarse con un contexto global Desarrollará habilidades tales como liderazgo capacidad organizacional de integrar y analizar información alta capacidad para adaptarse a situaciones cambiantes pensamiento estratégico iniciativa emprendedor capacidad analítica y de trabajo en equipo facilidad para comunicarse y con valores entre los que destaquen la ética la honradez y responsabilidad con lo que podrá coadyuvar al desarrollo de la industria nacional y podrá asumir cargos de alta responsabilidad.</string>
+	<string name="mapaCurrIMMESIQIE">https://www.esiqie.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Ing-metalurgia-materiales-10.pdf</string>
+
+	<string name="objIRI">Formar ingenieros en Robótica que sean capaces de aplicar sus conocimientos científicos técnicos y socioculturales para: diseñar fabricar y mantener sistemas automatizados y equipos de producción proyectar poner en marcha y mantener en operación plantas industriales Investigar e implantar nuevas tecnologías Crear y dirigir micro pequeñas y medianas empresas del área de automatización y de la manufactura.</string>
+	<string name="ingIRI">Responsabilidad respeto honestidad y solidaridad social.</string>
+	<string name="egreIRI">Al concluir su carrera el egresado será capaz de fundamentar y aplicar los conocimientos científicos y tecnológicos así como las habilidades actitudes y valores necesarios para el ejercicio de su profesión en beneficio de la sociedad y desarrollo de la nación En su actividad profesional el egresado será capaz de:
+    Diseñar mantener y construir dispositivos equipos y máquinas de la ingeniería en robótica industrial.
+    Proyectar diseñar y poner en operación plantas y sistemas que integren equipos de la ingeniería en robótica industrial
+    Investigar adaptar y construir nuevas tecnologías y conocimiento.
+    Planear organizar asesorar y dirigir empresas de servicios fabricación y mantenimiento en ingeniería en robótica industrial.
+    Aplicar las normas nacionales internacionales e industriales técnicas jurídicas éticas ecológicas de higiene y seguridad inherentes a la ingeniería en robótica industrial.
+    Capacitar instruir y entrenar en las ramas de la ingeniería en robótica industrial a diverso personal.
+    Comprender aplicar y desarrollar los principios científicos técnicos y socioeconómicos básicos de la ingeniería en robótica industrial.
+    Manejar los principios y aplicaciones de otras disciplinas relacionadas con la ingeniería en robótica industrial.
+    Obtener y procesar información de manera oral y escrita para los proyectos e investigaciones.
+    Aplicar el pensamiento analítico creativo e innovador para el análisis de problemas y la toma de decisiones.
+    Utilizar los procesos métodos instrumentos y herramientas propios de la ingeniería en robótica industrial.</string>
+	<string name="mapaCurrIRIESIME_UA">http://www.esimeazc.ipn.mx/Documents/Oferta%20Educativa/PlandeEstudiosROBOTICA.pdf</string>
+
+	<string name="objISAmb">Formar profesionales con conocimientos sólidos  en ciencias ambientales y en ingeniería con un enfoque sistémico y sustentable,  en el contexto de la gestión ambiental y con una actitud de liderazgo, para  trabajar con grupos interdisciplinarios capaces de proponer sistemas de  prevención, minimización y control de contaminantes en el ambiente, en  cualquiera de los ámbitos de desempeño de la profesión.</string>
+	<string name="ingISAmb">El aspirante que desee ingresar al programa académico  de ISA deberá cumplir con las normas institucionales, contando principalmente  con la vocación y aptitud para esta área del conocimiento.</string>
+	<string name="egreISAmb">El egresado del programa académico de Ingeniería  en Sistemas Ambientales podrá desempeñarse en los ámbitos de la ingeniería y de  la evaluación ambiental, sustentado en valores éticos y de responsabilidad, con  un enfoque sistémico y con actitud crítica y de liderazgo para trabajar en  equipos multidisciplinarios e interdisciplinarios, respondiendo a las  necesidades de la sociedad y al desarrollo sustentable de la nación, en los  sectores público, privado y social.</string>
+	<string name="mapaCurrISAmbENCB">https://www.encb.ipn.mx/licenciatura/ingenieriaSistemasAmbientales/index.html</string>
+
+	<string name="objISAuto">Preparar ingenieros altamente especializados para atender las necesidades en ingeniería automotriz y de autopartes en sus Áreas de: manufactura, diseño, automatización, procesos, sistemas inteligentes, protección ambiental, administración e innovación tecnológica.</string>
+	<string name="ingISAuto">​El aspirante a estudiar una de las carreras de ingeniería que se imparten en los cuatro planteles de la ESIME, deberá tener los siguientes conocimientos básicos, capacidades, actitudes y valores: Conocimientos teóricos y prácticos de las ciencias físico-matemáticas antecedentes. Fluidez y comprensión lectora, así como capacidad para expresarse mediante lenguajes cotidiano y científico, tanto en forma oral como escrita. Capacidades propias del razonamiento lógico: de análisis, síntesis y aplicación del conocimiento. Uso de la metodología científica. Comprensión, manejo y aplicación de la información formulada en diversos lenguajes: gráficos, simbólicos y computacionales; así como comprensión lectora del inglés. Habilidades manuales para el trabajo en laboratorio con instrumentos especializados. Disposición para el autoaprendizaje que propicie su desarrollo intelectual, afectivo y social. Creatividad para resolver situaciones nuevas, lograr mejoras y solucionar problemas. Disponibilidad para trabajar en equipos. Responsabilidad, respeto, honestidad y solidaridad social.​</string>
+	<string name="egreISAuto">Es un profesionista que aplica conocimientos de la matemática, las ciencias naturales, las ciencias sociales, humanísticas y administrativas que ha adquirido a través del estudio, la experiencia y la práctica, al desarrollo de actividades tales como:
+        Participación, en programas de investigación, desarrollo tecnológico e ingenieróa experimental
+        Planeación, dirección y/o ejecución en diseños y proyectos de ingeniería
+        Dirección y/o ejecución de obras de construcción, instalación, producción y operación de bienes y servcios
+        Realización de estudios y consultoria sobre aspectos técnicos, tecnológicos y/o procesos relativos en la especialidad
+        Participación en los programas de elaboración de normas técnicas y de calidad para sistemas, productos, procesos y servicios
+        Programación y desarrollo de actividades comerciales, de gestión y periciales
+        Organización dirección y/o ejecución de programas de conservación y mantenimiento
+        Realización de funciones en docencia e instrucción en programas escolarizados, de educación continua, de especialización o posgrado
+        Manejo eficaz del idioma local y capacidad de comunicación en una lengua extranjera
+        Redacción de documentos, artículos e informes técnicos y no técnicos
+        Vinculación y participación en organismos gremiales, técnicos y culturales; nacionales y extranjeros
+        Organización y supervisión del trabajo de personal dependiente
+        Solución de problemas en beneficio de la persona y la sociedad en su conjunto, principalmente en las áreas de:
+        Generación, conversión y conservación de la energía
+        Sistemas de propulsión, transmisión y diseño de vehículos
+        Seguridad
+        Sistemas inteligentes para guiado y supervisión de sistemas en vehículos
+        Producción industrial
+        Instalaciones, maquinaria e infraestructura
+        Participación en la economia del país
+        Producción más limpia</string>
+	<string name="mapaCurrISAutoESIME_UA">http://www.esimeazc.ipn.mx/Documents/Oferta%20Educativa/PlandeEstudiosISISA.pdf</string>
+	<string name="mapaCurrISAutoESIME_UC">https://www.esimecu.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-sistemas-automotrices.pdf</string>
+	<string name="mapaCurrISAutoESIME_UTi">https://www.esimetic.ipn.mx/oferta-educativa/isisa.html</string>
+	<string name="mapaCurrISAutoESIME_UZ">https://www.upiih.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-sistemas-automotrices.pdf</string>
+    <string name="mapaCurrISAutoUPIIG">https://www.upiih.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-sistemas-automotrices.pdf</string>
+	<string name="mapaCurrISAutoUPIIH">https://www.upiih.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-sistemas-automotrices.pdf</string>
+
+	<string name="objISC">Formar profesionistas competentes para aplicar matemáticas algorítmica programación y electrónica a la solución de problemas relacionados con el área de la computación y demás tecnologías afines utilizando un enfoque integrador de todos los aspectos éticos socioculturales económicos administrativos políticos científicos y tecnológicos inherentes al problema buscando siempre el beneficio del país.</string>
+	<string name="ingISC">Los estudiantes que ingresen a la ESCOM deberán contar con las siguientes habilidades derivadas del perfil de egreso del nivel medio superior:
+        Investigación análisis y síntesis de información
+        Criterio y razonamiento lógico para la solución de problemas
+        Expresión oral y escrita
+        Actitudes de: respeto responsabilidad
+        Interesado en las ciencias básicas y tecnologías de cómputo
+        Asumir una posición activa con respecto al estudio y al desarrollo de los proyectos y trabajos requeridos coincidentes con el ideario y principios del IPN.</string>
+    <string name="egreISC">Conocer las metodologías de desarrollo de software para seleccionar la adecuada en el análisis diseño desarrollo e implementación de un sistema computacional.\n
+        Conocer las normas y estándares de calidad nacionales e internacionales para el desarrollo de sistemas computacionales.\n
+        Conocer los fundamentos de análisis de algoritmos para seleccionar la opción más adecuada en la solución de problemas algorítmicos.\n
+        Conocer los modelos de datos para representar la información de una organización.\n
+        Conocer los lenguajes de los Sistemas Gestores de Bases de Datos (SGBD) para la definición manipulación y control de bases de datos.\n
+        Conocer las características de las diversas herramientas para la administración de bases de datos.\n
+        Describir los distintos tipos de redes protocolos y esquemas de seguridad para garantizar el intercambio de información de manera confiable.\n
+        Conocer las características de los paradigmas de programación para el desarrollo de un sistema computacional.\n
+        Conocer las tecnologías de Internet para el desarrollo de aplicaciones Web.\n
+        Conocer las metodologías para el desarrollo de software embebido.\n
+        Identificar los distintos dispositivos lógicos programables.\n
+        \n
+        Habilidades\n
+        Elegir la mejor metodología para el proceso de desarrollo de software de un sistema específico.\n
+        Coordinar y dirigir el proceso de desarrollo de software a través de una metodología.\n
+        Planear negociar analizar diseñar y coordinar estratégicamente proyectos en el ámbito de los sistemas computacionales Identificar las necesidades del cliente especificando validando y gestionando los requisitos del sistema.\n
+        Asegurar la calidad de los sistemas de información durante el diseño y desarrollo.\n
+        Diseñar algoritmos eficientes para la solución de problemas computacionales Diseñar bases de datos utilizando herramientas CASE que satisfagan los requerimientos de información de los usuarios.\n
+        Diseñar procesos eficientes para la consulta de información en una Base de Datos por medio de lenguajes de consulta del SGBD.\n
+        Seleccionar el SGBD adecuado para sistemas computacionales específicos.\n
+        \n
+        Actitudes y Valores\n
+        Adquirir el hábito de aprender de manera autónoma para mantenerse actualizado.\n
+        Desarrollar una actitud de búsqueda constante para el crecimiento profesional y personal.\n
+        Integrar y colaborar en equipos de trabajo inter y multidisciplinarios así como multiculturales con actitud de liderazgo para la gestión de proyectos computacionales.\n
+        Asumir una actitud de responsabilidad y ética en su desempeño profesional y personal.\n
+        Tener conciencia social y responsabilidad ecológica en su desempeño personal y profesional.\n
+        Asumir una actitud de tolerancia manejo de conflictos y prevención del riesgo durante la gestión de proyectos computacionales.\n
+        Administrar Bases de Datos por medio de un SGBD Desarrollar aplicaciones cliente-servidor y distribuidas que requieran el uso de protocolos para comunicaciones seguras.\n
+        Seleccionar el paradigma adecuado para el desarrollo de un sistema computacional específico.\n
+        Integrar las diversas tecnologías de Internet en el desarrollo de aplicaciones Web con distintas tecnologías y en apego a los estándares establecidos para este fin.\n
+        Seleccionar la metodología adecuada para el desarrollo de software embebido Diseñar dispositivos lógicos programables para una aplicación específica.\n
+        Integrar y participar de forma efectiva con grupos inter y multidisciplinarios así como multiculturales.\n
+        Comunicarse eficientemente en su ámbito profesional y personal.\n</string>
+	<string name="mapaCurrISCESCOM">http://www.isc.escom.ipn.mx/docs/oferta/mapaCurricularISC2009.pdf</string>
+	<string name="mapaCurrISCUPIIZ">https://www.ipn.mx/assets/files/zacatecas/docs/oferta_educativa/sistemas.pdf</string>
+
+	<string name="objITrans">Formar profesionales capaces de diagnosticar y planear soluciones, aplicando los principios científicos y tecnológicos a los problemas de movilidad de personas y mercancías por cualquier medio de transporte desde el punto de vista del enfoque de sistemas para mejorar la calidad y la productividad en forma sustentable.</string>
+	<string name="ingITrans">Para lograr una formación exitosa en la Licenciatura de Ingeniería en Transporte, el aspirante deberá provenir del área físico-matemáticas, así como también caracterizarse por reunir los conocimientos, habilidades y aptitudes siguientes: Habilidades para la comunicación, trabajo en equipo, comprometido con su entorno, su país y su institución educativa, con un amplio sentido de responsabilidad y honestidad en su actuar.</string>
+	<string name="egreITrans">El Ingeniero en Transporte, es un profesionista interdisciplinario que labora en cualquier tipo de organización pública o privada, donde implementa y administra sistemas de transporte a nivel nacional e internacional proporcionando soluciones a los problemas que se presentan en los diferentes modos, aéreo, terrestre, ferroviario y marítimo.</string>
+	<string name="mapaCurrITransUPIICSA">http://www.sites.upiicsa.ipn.mx/portalweb/ofertaeducativa/planesestudio/IT/07/Mapa_8_Periodos_07_Ing._Transporte.pdf</string>
+
+	<string name="objIFarm">Esta tecnología en el caso de la industria farmacéutica debe ser encaminada a la solución de problemas en el diseño y producción de fármacos de alta calidad Así el profesional en Ingeniería Farmacéutica debe ser capaz de realizar el diseño de equipo planeación de la producción estimación de costos innovación en nuevos productos desarrollo de procesos y formulaciones de formas farmacéuticas.</string>
+	<string name="ingIFarm">Actitud creadora para transformar la realidad mediante programas y proyectos de innovación tecnológica.</string>
+	<string name="egreIFarm">Dominio de las ciencias Físico-Matemáticas y Químico-Biológicas Ciencias de la Comunicación pertinentes para el desarrollo de la Ingeniería Farmacéutica y para el uso sustentable de los recursos naturales Ingeniería de producción y recuperación de productos biológicos con énfasis en los procesos de purificación de medicamentos para uso humano Conocimientos de frontera en áreas emergentes del conocimiento: Proteómica Genómica Nanobiotecnología y Bioinformática Desarrollo social ética economía y administración pertinentes para la comprensión del entorno económico-social y para el desarrollo de la capacidad de autoempleo y creación de empresas de base tecnológica Gramática fonética y sintáctica en español e inglés.</string>
+	<string name="mapaCurrIFarmUPIBI">http://www.escom.ipn.mx/docs/appExPro/IFarm_UPIBI.pdf</string>
+	<string name="mapaCurrIFarmUPIIG">http://www.upiig.ipn.mx/Paginas/Ingeniería-Farmacéutica.aspx</string>
+
+	<string name="objIGeofi">El objetivo general de la carrera de Ingeniería Geofísica es formar profesionistas a nivel licenciatura con una preparación en los fundamentos de la física de la Tierra y un dominio de herramientas computacionales de instrumental geofísico y conocimientos de geología que lo faculten para la aplicación de métodos geofísicos.</string>
+	<string name="ingIGeofi">PConocimientos adquiridos en el área de Ciencias Físico-Matemáticas a nivel medio superior Fundamentos de Física y Matemáticas
+    Conocimientos generales en el área humanística social e histórica
+    Conocimientos básicos de computación
+    Conocimientos básicos del idioma inglés
+    De análisis y síntesis
+    Planeación de trabajo escolar
+    Capacidad en la asimilación de conocimientos</string>
+	<string name="egreIGeofi">Explorar descubrir analizar y evaluar los recursos naturales básicos y estratégicos para el sustento energético y económico del país
+    Estudiar y aprovechar los mecanismos de los fenómenos terrestres para mitigación de desastres naturales que atentan contra la sociedad
+    Explorar identificar y analizar zonas contaminadas en el medio ambiente
+    Vincular a la Ingeniería Geofísica interdisciplinariamente con otras ramas de la Ingeniería y de la Ciencia para lograr el aprovechamiento racional de los recursos naturales estudio y monitoreo de fenómenos naturales determinación de propiedades y estructura del subsuelo
+    Sólida formación en Física Matemáticas y Computación que lo faculten para diseñar modelos numéricos de la Física de la Tierra con fines descriptivos y predictivos
+    Dominio de las técnicas y métodos de la Geofísica aplicada actualmente conocidos con el fin de reproducirlos y ejecutarlos con eficacia o en su caso generar nuevos que mejoren los anteriores
+    Poseer fundamentos necesarios de Geología que le permitan programar el trabajo de recolección de datos geofísicos para construir modelos matemáticos interpretables en términos geológicos
+    Conocer y comprender los fundamentos diseño y construcción del instrumental utilizado en la Geofísica con el fin de manipularlo en forma correcta y obtener información confiable
+    Poseer los fundamentos necesarios del procesamiento de datos geofísicos y los elementos computacionales que permitan elaborar e implantar programas con fines de proceso y simulación
+    Conocer los diversos fenómenos naturales que ocurren en nuestro planeta y los principales métodos de estudio y mitigación
+    Elaboración y administración de proyectos de investigación economía finanzas y de control productivo
+    Conocimientos sobre situaciones socioeconómicas de México y del mundo
+    Conocimientos de los impactos científicos y tecnológicos actuales
+    De observación análisis y síntesis que le permitan desarrollarse en métodos de investigación
+    Tener un pensamiento crítico y creativo que le permita enfrentar y resolver problemas no rutinarios que aparecen frecuentemente en el ejercicio profesional de la Geofísica
+    Ser capaz de trabajar en grupos interdisciplinarios o multidisciplinarios
+    Tener la habilidad de comunicarse y gestionar correctamente en forma oral y escrita así como ser capaz de leer y elaborar reportes e informes técnicos en español e inglés que reflejen fielmente las tendencias o resultados de un proyecto dado
+    Disposición para colaborar en el trabajo en equipo
+    Tomar decisiones con formalidad y responsabilidad en el trabajo así como hacer uso racional y eficiente de los recursos materiales y humanos de los que esté a cargo
+    Tener espíritu emprendedor competitivo creativo y productivo que tienda a la excelencia profesional
+    Identificar y comprender los valores sociales y su complejidad para adoptar una actitud ética y crítica ante su profesión y su entorno en beneficio de su patria
+    Disposición de mantenerse actualizado
+    Compromiso social</string>
+	<string name="mapaCurrIGeofiESIA_UTi">https://www.ESIA_UTi.ipn.mx/Estudiantes/Documents/Gestion_Escolar/Mapas_curriculares.pdf</string>
+
+	<string name="objIGeolo">Formar profesionistas de alto nivel con sólidos conocimientos teóricos y prácticos de geología con el fin de: Estudiar en forma general la Tierra su origen composición estructura interna y evolución histórica Localizar y explotar racionalmente los recursos naturales del subsuelo tales como: hidrocarburos minerales y rocas de importancia económica agua y vapor subterráneos; todo esto considerando la preservación del medio ambiente.</string>
+	<string name="ingIGeolo">Los aspirantes a ingresar a la carrera de Ingeniería Geológica deben tener los siguientes conocimientos:
+        Bases académicas sólidas en Física Química Matemáticas Biología Dibujo y Computación de un nivel correspondiente a los estudios del nivel medio superior bachillerato preferentemente en el área de Ciencias Físico-Matemáticas
+        Los aspirantes a la carrera deben tener además las siguientes habilidades:
+        Observación análisis síntesis y evaluación de información Integración y aplicación de los conocimientos adquiridos
+        Los aspirantes a ingresar a la carrera de Ingeniería Geológica deben tener las siguientes actitudes y valores:
+        Disciplina orden y constancia en el estudio
+        Disponibilidad para trabajar en equipo con otros estudiantes</string>
+	<string name="egreIGeolo">Observar analizar describir e identificar minerales rocas fósiles y estructuras geológicas Conceptualizar tridimensionalmente las estructuras y los ambientes geológicos Capacidad de pensamiento concreto y reflexivo Comunicar oralmente y por escrito los resultados de sus estudios Analizar integrar resumir y sintetizar la información que requiera para la solución de problemas Manejar equipos y programas de cómputo Dominar el idioma Inglés Administrar los recursos humanos y financieros a su cargo * Actitudes y Valores Saber trabajar en grupo Saber desempeñar el papel de liderazgo Desempeñar con responsabilidad y ética su trabajo Disposición para mantenerse actualizado profesionalmente Tener mentalidad crítica y abierta Tener iniciativa para realizar investigación Disciplina orden responsabilidad y constancia Ser emprendedor creativo y proactivo Tener compromiso social.</string>
+	<string name="mapaCurrIGeoloESIA_UTi">https://www.ESIA_UTi.ipn.mx/Estudiantes/Documents/Gestion_Escolar/Mapas_curriculares.pdf</string>
+
+	<string name="objIInd">Preparar profesionistas altamente competitivos conscientes de su compromiso moral con nuestro país. Poseedores de una preparación tecno-científica que les permita desarrollarse como seres humanos y profesionales exitosos de su área, a fin de integrarse dentro del sistema económico nacional como elementos determinantes en el logro del bienestar social y el potenciamiento tecnológico mexicano.</string>
+	<string name="ingIInd">El aspirante a estudiar la Licenciatura en Ingeniería Industrial debe poseer conocimientos en: Matemáticas, Física, Química, conocimientos de la metodología científica, manejo de lenguaje (comprender textos), bases de un segundo idioma, técnicas de estudio, técnicas de lectura, técnicas de redacción. Para lograr una formación exitosa del ingeniero industrial, el aspirante debe caracterizarse por reunir los conocimientos, habilidades y aptitudes necesarias como requisitos que exige el plan de estudios.</string>
+	<string name="egreIInd">Los egresados de la carrera de ingeniería industrial se ocupan del diseño, el rediseño, el análisis, la operación, la administración, el control, la implantación y la mejora continua de los sistemas productivos y de servicios integrados por personas, materiales, tecnologías, información y recursos financieros. Esto garantiza que el egresado pueda realizar actividades dirigidas a la formulación, toma de decisiones y mejoramiento continuo de productos y empresas.</string>
+	<string name="mapaCurrIIndUPIICSA">http://www.sites.upiicsa.ipn.mx/portalweb/ofertaeducativa/planesestudio/ii/07/8_Periodos_Tepic.pdf</string>
+	<string name="mapaCurrIIndUPIIG">http://www.upiig.ipn.mx/Paginas/Ingeniería-Industrial.aspx</string>
+
+	<string name="objIMate">El objetivo de la carrera de Ingeniería Matemática es la formación de profesionistas que aplicarán o crearán los modelos industriales administrativos y financieros Modelos que han de ser la base para que profesionales de otras especialidades investiguen diseñen produzcan construyan operen mantengan estimen y dirijan sistemas con diversos grados de complejidad El egresado podrá simular procesos que permitan prever eventos.</string>
+	<string name="ingIMate">El aspirante a ingresar a la carrera de Ingeniería Matemática es recomendable que posea las siguientes cualidades:
+        Gusto por las matemáticas y sus aplicaciones
+        Capacidad de concentración síntesis y análisis
+        Interés en la Interacción de las matemáticas con otras disciplinas
+        Disposición al trabajo en equipo
+        Disciplina y constancia en el trabajo</string>
+	<string name="egreIMate">El egresado posee una sólida formación en matemáticas sensible a los problemas de la industria y el mundo financiero según su línea de especialidad:
+        Es capaz de analizar problemas reales crear modelos matemáticos que los representen diseñar métodos que lleven a la solución de los mismos e interpretar está en el contexto del problema real
+        Para ello se apoya en las tecnologías de la información
+        El egresado de la opción industrial puede liderar proyectos multidisciplinarios en áreas como:
+        Control de la calidad
+        Administración de la producción
+        Control de Inventarios</string>
+	<string name="mapaCurrIMateESFM">https://dev.desarrolloweb.ipn.mx/assets/files/esfm/docs/planes/LIM/PLAN-ESTUDIOS-INGENIERIA-MATEMA.pdf</string>
+
+	<string name="objIMecani">Formar Ingenieros Mecánicos competentes que sean capaces de aplicar sus conocimientos científicos técnicos y socioculturales para: Diseñar fabricar innovar y mantener: máquinas sistemas productivos equipos de producción y dispositivos mecánicos Aprovechar óptimamente los diversos tipos de energía Proyectar poner en marcha y mantener en operación plantas industriales Crear y dirigir micro pequeñas y medianas empresas del área metal-mecánica.</string>
+	<string name="ingIMecani">El aspirante a estudiar una de las carreras de ingeniería que se imparten en los cuatro planteles de la ESIME deberá tener los siguientes conocimientos básicos capacidades actitudes y valores:
+    Conocimientos teóricos y prácticos de las ciencias físico-matemáticas antecedentes
+    Fluidez y comprensión lectora así como capacidad para expresarse mediante lenguajes cotidiano y científico tanto en forma oral como escrita
+    Capacidades propias del razonamiento lógico: de análisis síntesis y aplicación del conocimiento
+    Uso de la metodología científica
+    Comprensión manejo y aplicación de la información formulada en diversos lenguajes: gráficos simbólicos y computacionales; así como comprensión lectora del inglés
+    Habilidades manuales para el trabajo en laboratorio con instrumentos especializados
+    Disposición para el autoaprendizaje que propicie su desarrollo intelectual afectivo y social
+    Creatividad para resolver situaciones nuevas lograr mejoras y solucionar problemas
+    Disponibilidad para trabajar en equipos
+    Responsabilidad respeto honestidad y solidaridad social</string>
+	<string name="egreIMecani">Al concluir su carrera el egresado será capaz de fundamentar y aplicar los conocimientos científicos y tecnológicos así como las habilidades actitudes y valores necesarios para el ejercicio de su profesión en beneficio de la sociedad y desarrollo de la nación En su actividad profesional el egresado será capaz de:
+    Diseñar mantener y construir dispositivos equipos y máquinas de la Ingeniería Mecánica
+    Proyectar diseñar y poner en operación plantas y sistemas que integren equipos de la Ingeniería Mecánica
+    Investigar adaptar y construir nuevas tecnologías y conocimiento
+    Planear organizar asesorar y dirigir empresas de servicios fabricación y mantenimiento en Ingeniería Mecánica
+    Aplicar las normas nacionales internacionales e institucionales técnicas jurídicas éticas ecológicas de higiene y seguridad inherentes a la Ingeniería Mecánica
+    Capacitar instruir y entrenar en las ramas de la Ingeniería Mecánica a diverso personal
+    Comprender aplicar y desarrollar los principios científicos técnicos y socioeconómicos básicos de la Ingeniería Mecánica
+    Manejar los principios y aplicaciones de otras disciplinas relacionadas con la Ingeniería Mecánica
+    Obtener y procesar información de manera oral y escrita para los proyectos e investigaciones
+    Aplicar el pensamiento analítico lógico creativo e innovador para el análisis de problemas y la toma de decisiones
+    Utilizar los procesos métodos instrumentos y herramientas propios de la Ingeniería Mecánica
+    Disposición para el trabajo metódico eficiente individual y de grupo
+    Actitud crítica responsable participativa emprendedora y solidaria de la realidad social económica cultural política ecológica y ética profesional
+    Capacidad para establecer relaciones interpersonales con empatía y auto comprensión para ejercer el liderazgo organizacional
+    Continuar con estudios de posgrado</string>
+	<string name="mapaCurrIMecaniESIME_UA">https://www.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-mecanica.pdf</string>
+	<string name="mapaCurrIMecaniESIME_UC">https://www.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-mecanica.pdf</string>
+
+	<string name="objIMecatro">Forma ingenieros en mecatrónica con las competencias necesarias para resolver problemas de diseño construcción mantenimiento programación y control de sistemas mecatrónicos desarrollando y aplicando nueva tecnología con las habilidades necesarias para desarrollar un plan de vida y carrera conduciéndose con ética responsabilidad y tolerancia en sus ambientes de desarrollo profesional y personal</string>
+	<string name="ingIMecatro">El estudiante que ingrese a la UPIITA debe contar con una sólida formación integral con las competencias del nivel medio superior en Física Matemáticas manejo de tecnologías de información y comunicación con dominio básico del idioma inglés así como tener la capacidad de trabajar en equipo con actitudes de liderazgo propositivas deseos de superación conduciéndose en todo momento con ética responsabilidad y tolerancia en sus ambientes de desarrollo personal y profesional
+    Conocer aspectos básicos sobre el manejo de equipo de cómputo
+    Dominar conceptos sólidos en las Ciencias Físico-Matemáticas
+    Entender los conceptos de Lógica Matemática
+    Dominar aspectos básicos del idioma inglés
+    Haber cumplido con un programa de estudios compatibles con el Nivel Medio Superior del IPN
+    Resolver problemas matemáticos aplicando diferentes enfoques
+    Explicar e interpretar los resultados obtenidos mediante procedimientos matemáticos y los contrasta con modelos establecidos o situaciones reales
+    Cuantificar representar y contrastar experimental o matemáticamente las magnitudes del espacio tiempo y las propiedades físicas de los objetos que lo rodean
+    Interpretar tablas gráficas mapas diagramas y textos con símbolos matemáticos y científicos
+    Realizar toma de decisiones en situaciones rutinarias
+    Manejar equipo de cómputo
+    Leer y comprender textos en su idioma y en inglés
+    Interés para la actualización y educación permanente
+    Comportarse de manera responsable honesta ética con compromiso y profesionalismo para el buen desarrollo de las actividades que lleve a cabo
+    Ejercer un liderazgo proactivo creativo y propositivo para la toma de decisiones con tolerancia
+    Desarrollar la capacidad crítica y autocrítica en su vida profesional y personal
+    Capacidad de desarrollarse en contextos profesionales personales culturales y sociales
+    Realizar toma de decisiones en situaciones rutinarias
+    Trabajar en equipo</string>
+	<string name="egreIMecatro">Es un profesional interdisciplinario capaz de diseñar manufacturar y construir dispositivos y sistemas mecatrónicos así como automatizar procesos industriales con dominio de una segunda lengua y la habilidad de integrarse en equipos de trabajo para desarrollar y emplear nueva tecnología que esté aplicada de manera ética y responsable en la solución de las necesidades del entorno social y en armonía con el medio ambiente</string>
+	<string name="mapaCurrIMecatroUPIIH">https://www.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/mecatronica-upiih.pdf</string>
+	<string name="mapaCurrIMecatroUPIIZ">https://www.ipn.mx/assets/files/zacatecas/docs/oferta_educativa/mecatronica.pdf</string>
+	<string name="mapaCurrIMecatroUPIITA">https://www.upiita.ipn.mx/mapa-del-sitio?view=article&amp;id=35:programa-telematica&amp;catid=29:telematica</string>
+
+	<string name="objIMetal">​Los aspirantes a ingresar a la Ingeniería Metalúrgica deben poseer: Interés por la Metalurgia y sus aplicaciones, autodisciplina para el cumplimiento de objetivos, capacidad para comprender y aplicar el método científico, conciencia y preocupación sobre la preservación del medio ambiente, visión y capacidad inventiva, capacidad para trabajar en grupos interdisciplinarios, equidad de género. ​</string>
+	<string name="ingIMetal">​Los aspirantes a ingresar a la Ingeniería Metalúrgica deben poseer: * Interés por la Metalurgia y sus aplicaciones, autodisciplina para el cumplimiento de objetivos, capacidad para comprender y aplicar el método científico, conciencia y preocupación sobre la preservación del medio ambiente, visión y capacidad inventiva, capacidad para trabajar en grupos interdisciplinarios, equidad de género. ​</string>
+	<string name="egreIMetal">El perfil de egreso del Programa Académico de Ingeniería Metalúrgica se caracteriza por desarrollar competencias profesionales enfocadas al proceso productivo de la Metalurgia Extractiva en la obtención de metales y aleaciones, diseño y operación de plantas de procesamiento de minerales o metales de reciclado y en el proceso productivo de la Metalurgia Adaptativa en la obtención de productos metálicos terminados a través de los procesos de conformado, maquinado, tratamiento térmico, recubrimiento y soldadura; en ambos procesos productivos para generar bienes y servicios sustentables, preservando la diversidad de los ecosistemas industriales y naturales, bajo estándares y normas nacionales e internacionales. ​</string>
+	<string name="mapaCurrIMetalUPIIZ">https://www.ipn.mx/assets/files/zacatecas/docs/oferta_educativa/metalurgia.pdf</string>
+
+	<string name="objIPetro">Proporcionar a los alumnos conocimientos habilidades y actitudes necesarios para desarrollar con eficiencia eficacia calidad y economía las actividades inherentes a los diferentes procesos involucrados en la explotación de hidrocarburos agua y energía geotérmica (perforación producción yacimientos y servicios a pozos) recursos indispensables para el desarrollo del país</string>
+	<string name="ingIPetro">Realizar con criterios y responsabilidad ética los trabajos de formulación desarrollo y evaluación de ingeniería de proyectos.</string>
+	<string name="egreIPetro">El ingeniero petrolero es un profesionista que dirige procesos de obtención de hidrocarburos, agua y energía geotérmica, ejecuta y supervisa operaciones de yacimientos, perforación y producción, para la correcta administración de recursos materiales, humanos y tecnológicos; a través de una sólida formación de conocimientos científicos y tecnológicos aplicables a la industria petrolera, industria eléctrica y de explotación de acuíferos. Mostrando una actitud emprendedora en beneficio del desarrollo económico, social y ambiental..</string>
+	<string name="mapaCurrIPetroESIA_UTi">https://www.ESIA_UTi.ipn.mx/Estudiantes/Documents/Gestion_Escolar/Mapas_curriculares.pdf</string>
+
+	<string name="objIQI">Formar ingenieros que participen en el desarrollo social económico e industrial del país mediante la aplicación de la tecnología y la ciencia en la resolución de los problemas relacionados con: la producción de bienes de consumo el sector de servicios y el cuidado del medio ambiente principalmente en las industrias con procesos de transformación que involucran cambios químicos y fisicoquímicos de los materiales.</string>
+	<string name="ingIQI">El estudiante que haya concluido los estudios de nivel bachillerato y que desee cursar el programa académico de Ingeniería Química Industrial deberá tener conocimientos bases sobre física química y matemáticas Preferentemente contar con conocimientos de inglés habilidades para la comunicación oral y escrita disposición y habilidad para realizar un trabajo de forma colaborativa tener capacidad de comunicación y madurez intelectual para un aprendizaje significativo Comportarse con responsabilidad honradez y ética.</string>
+	<string name="egreIQI">Aplicar los conceptos y fundamentos básicos de matemáticas física y química a la solución de problemas que involucran cantidades conservadoras como masa energía y movimiento Leer comprender y redactar textos en lenguaje coloquial y técnico Emplear la paquetería computacional básica y parcialmente la especializada así como calculadoras programables Evalúa los Proceso u operaciones Unitarias implicadas en la transformación de la materia para la producción de productos químicos Comprende analiza y propone alternativas de procesos para la prevención y control de la contaminación ambiental Estudia y aplica tecnologías vigentes relativas a la Ingeniería Química Analiza comprende opera optimiza e innova procesos en la Industria Química utilizando conceptos termodinámicos y cinéticos empleando herramientas avanzadas de cómputo como modeladores y simuladores de procesos Aplica sistemas de gestión de calidad a procesos productivos y administrativos Investiga y desarrolla alternativas que permiten la creación y puesta en marcha de procesos sustentables Plantea analiza prevé situaciones de riesgo para trabajadores de la industria química Diseña y opera procesos basados en el concepto de Química Verde * Actitudes y Valores Aplica principios éticos y morales en su desempeño profesional y personal Cuida y mantiene los principios politécnicos brindando sus servicios al país y sus habitantes Propicia el trabajo colaborativo para un desarrollo eficaz y eficiente Realiza con criterios de responsabilidad y ética los trabajos de formulación desarrollo y evaluación de ingeniería de proyectos Se desempeña en todo momento bajo criterios de protección al medio ambiente y conceptos de sustentabilidad Asimila los cambios propios relacionados con la ingeniería química en un mundo globalizado</string>
+	<string name="mapaCurrIQIESIQIE">https://www.esiqie.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Ing-quimica-industrial-10.pdf</string>
+
+	<string name="objIQP">Formar profesionistas de excelencia con alta calidad técnica conciencia social ambiental y ética profesional Que contribuyan a la transformación del petróleo crudo y del gas natural en productos químicos y petroquímicos con alto valor comercial.</string>
+	<string name="ingIQP">Los conocimientos de nivel medio superior que el alumno requiere como antecedente para cursar la carrera abarcan el conocimiento de las matemáticas y la aplicación del método científico en las áreas de física y química.</string>
+	<string name="egreIQP">El egresado posee una formación integral en ciencias básicas y de ingeniería que aplica a la solución de los problemas mediante el manejo de sistemas y medios informáticos simulación y control de procesos elementos de tecnología de materiales ahorro de energéticos y las competencias necesarias para desarrollar nuevos productos y procesos; enriquecida con el dominio de idiomas extranjeros que le permiten adaptarse al ambiente globalizado Dispone de habilidades de liderazgo capacidad organizacional integración y análisis de información capacidad de adaptación a las situaciones cambiantes pensamiento estratégico iniciativa empresarial capacidad analítica y de trabajo en equipo facilidad para comunicarse y con valores entre los que destacan la ética tolerancia honradez y responsabilidad</string>
+	<string name="mapaCurrIQPESIQIE">https://www.esiqie.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Ing-quimica-petrolera-10.pdf</string>
+
+	<string name="objITelem">Formar profesionistas que sean capaces de diseñar desarrollar mejorar administrar y operar sistemas que involucren el tratamiento almacenamiento y transmisión/recepción de la información.</string>
+	<string name="ingITelem">Debe poseer los conocimientos tanto teóricos como prácticos en las Ciencias Física Química y Matemáticas así como herramientas computacionales ya que forman parte de las utilizadas como futuro ingeniero Habilidad manual para armar circuitos o para verificar el producto de su ingenio al diseñar Conocer la estructura de un reporte técnico y los conocimientos pertinentes para realizar e interpretar el dibujo técnico Capacidad para resolver situaciones nuevas; desarrollo de criterios a la solución de problemas de la profesión mediante el análisis y síntesis; tener el espíritu de observación para investigar el cómo y el porqué de los fenómenos Creatividad para resolver un problema planteado o diseñar un nuevo producto Cualidades personales; seriedad moral respeto y deseos de superación capacidad para coordinar y expresar apropiadamente sus ideas y un alto sentido común que le permita discernir conceptos y criterios ingenieriles Capacidad para integrarse en forma interdisciplinaria.</string>
+	<string name="egreITelem">Cumplir en tiempo y forma con cada una de las etapas del Proceso de Admisión señaladas en la convocatoria de ingreso al Nivel Superior Sistema Escolarizado del IPN Tales como:
+    Certificado oficial de estudios de nivel medio superior
+    Certificado de estudios de secundaria
+    Clave Única de Registro de Población (CURP)
+    Acta de nacimiento
+    Aprobar el examen de ingreso
+    6 fotografías tamaño infantil</string>
+	<string name="mapaCurrITelemUPIITA">https://www.upiita.ipn.mx/images/academica/planes/telematica/trayectoria%20ideal%20de%20telematica.jpge</string>
+
+	<string name="objITex">Formar profesionistas capaces de realizar actividades de: planeación dirección operación mantenimiento adaptación tecnológica diseño evaluación aplicación y administración de sistemas que se requieran para el desarrollo empresarial e independencia tecnológica e industrial del país Proporcionar conocimientos para desarrollarse en el ramo de la Ingeniería Textil en Tejidos Ingeniería Textil en Hilados Ingeniería Textil en confección y la Industria de la Ingeniería Textil en Acabados.</string>
+	<string name="ingITex">El aspirante a ingeniero textil en acabados es aquel individuo que ha cumplido con el ciclo de enseñanza media superior y con los requisitos que pide la Dirección de Servicios Escolares del Instituto Politécnico Nacional Deberá contar con las siguientes habilidades:
+    Razonamiento lógico
+    Aplicación de modelos físico-matemáticos para la generación de soluciones
+    Adaptabilidad social
+    Capacidad de Diseño</string>
+	<string name="egreITex">A través del proceso educativo el estudiante de Ingeniería Textil en Acabados obtiene una gama de conocimientos de las ciencias básicas ingeniería y desarrollo tecnológico que lo dotan de habilidades como programación y manejo de máquinas y herramientas interpretación de manuales y manejo de software.</string>
+	<string name="mapaCurrITexESIT">https://www.ipn.mx/assets/files/esit/dos/principal/Programa%20Academico.pdf</string>
+
+	<string name="objITF">Formar profesionistas que tengan como función primordial planificar diseñar organizar dirigir ejecutar supervisar y analizar proyectos de medición y representación de la superficie terrestre de una región determinada utilizando una superficie plana como referencia; así como administrar recursos económicos técnicos y humanos que requieran dichos estudios y proyectos.</string>
+	<string name="ingITF">Responsabilidad capacidad de mando y organización.</string>
+	<string name="egreITF">Funciones y tareas profesionales
+    Formular operar y evaluar proyectos de investigación
+    Crear diseñar y realizar programas de aplicación en el cálculo de los proyectos
+    Incorporar tecnologías emergentes y aplicarlas a los proyectos.</string>
+	<string name="mapaCurrITFESIA_UTi">http://www.ESIA_UTi.ipn.mx/Oferta-Educativa/Documents/Topografos/Map_%20Topografia.pdf</string>
+
+	<string name="objIArqui">Formar recursos humanos sólida e integralmente preparados para diseñar el hábitat del hombre con un alto conocimiento científico tecnológico y con sentido de responsabilidad social Los egresados se podrán incorporar al campo de la arquitectura con el fin de atender las demandas de los espacios habitables que requiere la sociedad.</string>
+	<string name="ingIArqui">Actitud de servicio a la sociedad.</string>
+	<string name="egreIArqui">Profesional de la Arquitectura con formación universal humanística y contemporánea dentro de la doctrina del Instituto Politécnico Nacional; conocimientos científicos tecnológicos y estéticos que permitan la conceptualización y construcción de edificios con sentido racional estables y económicos salvaguardando el medio natural y el patrimonio histórico con una mística de servicio social para apoyar la interdependencia y globalización de la economía la política y la cultura con el propósito de alcanzar un desarrollo más armónico y equilibrado de la sociedad Mexicana en su conjunto
+    Con formación orientada en un sentido de alta productividad y calidad comprendiendo el concepto de competitividad en el mercado de la oferta y la demanda</string>
+	<string name="mapaCurrIArquiESIA_UTec">https://www.ESIA_UTec.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/ing-arquitecto.pdf</string>
+
+	<string name="objLCI">Preparar profesionistas informáticos con un perfil ejecutivo y emprendedor, que emplee la información como recurso corporativo, para brindar soluciones competitivas; a través del uso de tecnologías de información logrando la mejora del posicionamiento de las empresas en el ámbito nacional e internacional.</string>
+	<string name="ingLCI">El interesado en estudiar la Licenciatura en Ciencias de la Informática deberá cumplir las siguientes características:.</string>
+	<string name="egreLCI">El Licenciado en Ciencias de la Informática es un profesionista, que aplicará sus conocimientos, habilidades, actitudes y valores en el manejo de la información como ventaja competitiva en la toma de decisiones por medio de la gestión e innovación de las tecnologías de información así como de la función informática, utilizándolas para elevar el posicionamiento de las organizaciones en los contextos nacional e internacional, y contribuir a un mayor desarrollo tecnológico del país bajo esquemas de responsabilidad social.</string>
+	<string name="mapaCurrLCIUPIICSA">http://www.sites.upiicsa.ipn.mx/portalweb/ofertaeducativa/planesestudio/CI/06/MapaPeriodos%20OptativasPlan06.pdf</string>
+
+	<string name="objLFM">Formar profesionistas con una preparación sólida en dos ramas básicas de la ciencia: física y matemáticas lo que les permite el estudio posterior de los problemas científicos generales que plantean estas dos disciplinas científicas (investigación pura) y los problemas de orden práctico relacionados con la producción económica la vida cotidiana del hombre y los problemas comunes (investigación aplicada en física y en matemáticas).</string>
+	<string name="ingLFM">El aspirante a ingresar a la Licenciatura en Física y Matemáticas es recomendable que posea las siguientes cualidades:
+    Gusto por el pensamiento abstracto
+    Capacidad de concentración síntesis y análisis
+    Curiosidad científica
+    Disposición al trabajo en equipo
+    Disciplina y constancia en el trabajo</string>
+	<string name="egreLFM">Comprender en base en el estudio riguroso de la Física y las Matemáticas las estructuras las propiedades fundamentales y las leyes generales que rigen al mundo que nos rodea Colaborar en tareas de investigación científica y desarrollo tecnológico
+    Desempeñar en la industria en las áreas de: instrumentación y control control estadístico computación procesos de ingeniería metrología etc
+    Proseguir estudios de posgrado en muy diversas ramas: ciencias puras o aplicadas comunicaciones energéticos robótica computación e informática biofísica biomedicina metrología materiales economía etc
+    Desarrollar actividades docentes en instituciones educativas
+    Realizar investigación básica desarrollo tecnológico y asesorías a instituciones y empresas</string>
+	<string name="mapaCurrLFMESFM">https://dev.desarrolloweb.ipn.mx/assets/files/esfm/docs/planes/LFM/PLAN-ESTUDIOS-LFM-2008-2009.pdf</string>
+
+	<string name="objLNutri">Crear un recurso profesional polivalente altamente capacitado capaz de impactar en los diferentes estados de la historia natural de la desnutrición y en aquellos procesos que repercutan en el estado nutricional del individuo familia grupo y comunidad actuando en las áreas de asistencia administración docencia e investigación.</string>
+	<string name="ingLNutri">Deberá poseer conocimientos básicos del área de Ciencias de la Salud
+    Afinidad al trabajo comunitario
+    Capacidad científica e interés por la investigación clínica epidemiológica y social
+    Disposición para el trabajo en equipo y espíritu de servicio
+    Poseer sensibilidad hacia los problemas sociales
+    Contar con tiempo completo para dedicarlo al estudio de la carrera elegida
+    Mostrar una actitud proactiva y propositiva
+    Poseer habilidad y destrezas psico-afectivas</string>
+	<string name="egreLNutri">El Licenciado en Nutrición al término de su formación será capaz de:
+    Realizar el diagnóstico del estado nutricional a nivel de individuo grupo o comunidad
+    Crear programas de alimentación y nutrición
+    Brindar atención a pacientes que requieran un manejo dietoterapéutico como un sostén nutricional en trastornos de desnutrición malos hábitos alimenticios o enfermedad
+    Realizar prescripciones dietéticas de acuerdo a las necesidades nutricias en las diferentes etapas del ciclo de vida
+    Administrar servicios de alimentación
+    Participar en proyectos de investigación en las áreas de alimentación nutrición y educación</string>
+	<string name="mapaCurrLNutriCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/nutricion.pdf</string>
+
+	<string name="objLOpto">Formar a los mejores profesionistas de la Licenciatura de Optometría capacitados para diagnosticar tratar canalizar rehabilitar prevenir e investigar las alteraciones visuales y anomalías oculares.</string>
+	<string name="ingLOpto">El aspirante debe mostrar interés y vocación en esta área de la salud desarrollando habilidades.</string>
+	<string name="egreLOpto">El licenciado en Optometría es un profesional en el área de la salud con valores conocimientos destrezas y habilidades necesarias para prevenir promover investigar detectar diagnosticar rehabilitar tratar y dar seguimiento a alteraciones del sistema visual y estructuras asociadas además de monitorear enfermedades sistémicas que repercuten en la función visual.</string>
+	<string name="mapaCurrLOptoCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/cics-st-optometria.pdf</string>
+	<string name="mapaCurrLOptoCICS_UST">https://www.cics-sto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/cics-st-optometria.pdf</string>
+
+
+	<string name="objLPsico">Formar profesionales con los conocimientos y habilidades integrados en una conceptualización del sujeto psicológico en campos de acción tan diversos como el clínico salud-enfermedad familiar cultural educativa y laboral con alta calidad.</string>
+	<string name="ingLPsico">Disposición y aptitudes para el aprendizaje
+    Interés por la lectura
+    Comprensión de lectura
+    Habilidad en la redacción
+    Actitud de servicio compromiso solidaridad y respeto a sus semejantes y sociedad en materia de la salud mental
+    Manejo de un esquema de valores y ética así como responsabilidad disciplina y seriedad
+    Capacidad de autocontrol y respuesta ante situaciones estresantes tendientes a la solución de problemas
+    Interés por la investigación científica de la conducta humana así como capacidad de observación análisis síntesis interpretación pensamiento lógico exactitud y rapidez de respuesta
+    Capacidad para desarrollar promover y participar en equipos de trabajo inter y multidisciplinarios
+    Conocimientos básicos de etimologías grecolatinas e idioma inglés que le facilitarán la comprensión y dominio de la terminología especializada del área
+    Conocimientos básicos de computación y sistemas de información médica y científica.</string>
+	<string name="egreLPsico">Profesional en psicología con conocimientos teóricos y técnico-metodológicos así como con habilidades actitudes y valores que lo capacitan para llevar a cabo con sentido de responsabilidad compromiso social y en trabajo multi e interdisciplinario:
+    El fomento y promoción del bienestar psicológico del individuo de las instituciones sociales y de la comunidad en general
+    La prevención y tratamiento de alteraciones en los estados y procesos psicológicos que impactan a la salud mental los procesos educativos y a las organizaciones
+    La evaluación de estados de funcionamiento psicológico de los individuos a través de la obtención de indicadores de la personalidad las habilidades cognitivas sociales emocionales y las competencias sociales académicas y laborales
+    La investigación básica y tecnológica del comportamiento humano que genere conocimiento científico sustentable
+    A fin de dar respuesta a las demandas de la sociedad que involucran comportamiento humano y sus procesos bio-psico-sociales en escenarios diversos complejos y cambiantes conforme al campo disciplinar y a los avances e innovaciones tecnológicas</string>
+	<string name="mapaCurrLPsicoCICS_UST">https://www.cics-sto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/PlanEstPsico2010.pdf</string>
+
+	<string name="objLBio">Identificar analizar evaluar planear y proponer soluciones a los problemas biológicos relacionados con el conocimiento la conservación el incremento la utilización y la administración de los recursos naturales@ Realizar investigación que contribuya a resolver las necesidades del uso de los recursos naturales@ Contribuir a la formación de recursos humanos en el área de recursos naturales.</string>
+	<string name="ingLBio">El aspirante debe estar capacitado sólidamente en ciencias básicas como biología física química y matemáticas
+    Debe estar dispuesto a incursionar en las ciencias biológicas como bioquímica microbiología bioquímica de los alimentos microbiología industrial entre otras
+    Debe estar dispuesto a aprender los diversos aspectos humanos tecnológicos y de ingeniería que abarcará su futura actividad profesional por ejemplo:
+    Cómo funciona el equipo industrial y cómo se debe operar para lograr un proceso íntegro
+    Cómo se elaboran los diversos productos y cómo se pueden mejorar e innovar
+    Cómo interaccionar adecuadamente con el resto del personal para integrarse plenamente a la comunidad
+    Cómo trabajar con sentido ético social y ambiental en organizaciones públicas o privadas del sector alimentario y biotecnológico
+    Es deseable que sea activo emprendedor y que tenga conocimientos del idioma inglés y de computación</string>
+	<string name="egreLBio">Al terminar sus estudios el Biólogo estará capacitado y facultado para conocer y describir las características de la flora y fauna silvestres y los ecosistemas elaborar y conservar las colecciones científicas y los inventarios correspondientes
+        De igual forma el egresado de esta carrera será capaz de comprender e interpretar los procesos y patrones de la historia natural de las especies
+        Participar en programas de restauración ecológica y proyectos de protección y normatividad ambiental a través del desarrollo de instrumentos de planeación como: estudios de impacto ambiental y ordenamientos ecológicos del territorio así como también en la elaboración de criterios técnicos que fundamenten las normas oficiales mexicanas relacionadas con la protección ambiental y el equilibrio ecológico
+        Hacer investigación sobre conservación aprovechamiento y manejo de la biodiversidad sobre el control de los organismos plagas y sus vectores: aplicación de herramientas biotecnológicas para la solución de problemas de alimentación y salud.</string>
+	<string name="mapaCurrLBioENCB">https://www.encb.ipn.mx/licenciatura/biologia/index.html</string>
+
+	<string name="objLEnf">Formar recursos humanos de Enfermería capaces de asumir con un acendrado orgullo Politécnico y alta calidad profesional el desempeño de las competencias profesionales integradas señaladas en los perfiles de egreso acordes a las necesidades de la población nacional que el Instituto Politécnico Nacional a través de su Escuela Superior de Enfermería y Obstetricia se ha comprometido en atender.</string>
+	<string name="ingLEnf">Deberá poseer conocimientos básicos del área de Ciencias de la Salud
+    Afinidad al trabajo comunitario
+    Capacidad científica e interés por la investigación clínica epidemiológica y social
+    Disposición para el trabajo en equipo y espíritu de servicio
+    Poseer sensibilidad hacia los problemas sociales Contar con tiempo completo para dedicarlo al estudio de la carrera elegida
+    Mostrar una actitud proactiva y propositiva
+    Poseer habilidad y destrezas psicoafectivas</string>
+	<string name="egreLEnf">Al término de la carrera el estudiante será capaz de:
+        Aplicar atención de enfermería de alta calidad al individuo familia y comunidad sanos y enfermos en el medio urbano suburbano y rural
+        Dominar aspectos técnicos científicos que le proporcione competitividad para su incursión en el mercado laboral del sector público y privado así como el ejercicio libre de la profesión
+        Adoptar una actitud crítica y asumir un compromiso social para proponer alternativas de solución a los problemas de salud detectados
+        Desarrollar una base amplia de conocimientos éticos y humanísticos que le permitan actuar con equilibrio emocional ante las diferentes situaciones que enfrente en su ámbito profesional y personal
+        Desarrollarse en los tres niveles de atención a la salud en coordinación con los demás integrantes del equipo en el sector público privado y en el ejercicio libre de la profesión</string>
+	<string name="mapaCurrLEnfESEO">https://www.eseo.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/lic-enfermeria.pdf</string>
+	<string name="mapaCurrLEnfCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/lic-enfermeria.pdf</string>
+
+	<string name="objLEO">Formar recursos humanos de Enfermería capaces de asumir con un acendrado orgullo Politécnico y alta calidad profesional el desempeño de las competencias profesionales integradas señaladas en los perfiles de egreso acordes a las necesidades de la población nacional que el Instituto Politécnico Nacional a través de su Escuela Superior de Enfermería y Obstetricia se ha comprometido en atender.</string>
+	<string name="ingLEO">Servicio participación compromiso social discrecionalidad.</string>
+	<string name="egreLEO">Los egresados de la carrera de Licenciatura en Enfermería contarán con una sólida formación integral con conocimientos científicos tecnológicos y humanísticos para potenciar la capacidad de autocuidado de la población femenina en materia de salud reproductiva; con alta calidad profesional en el desempeño de competencias disciplinares interdisciplinares sociales e investigativas en la solución de los problemas de salud de la población.</string>
+	<string name="mapaCurrLEOESEO">https://www.eseo.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/lic-enfermeria-obstetricia.pdf</string>
+
+	<string name="objLOdonto">La carrera de Odontología tiene como objetivo formar profesionistas capaces de prevenir diagnosticar tratar y rehabilitar el aparato estomatognático; preservar la salud oral para proporcionar bienestar individual y colectivo así como establecer las medidas preventivas en su entorno social para el control de las enfermedades buco dentales dentro de la más estricta disciplina y ética profesional.</string>
+	<string name="ingLOdonto">Deberá poseer conocimientos básicos del área de Ciencias de la Salud Afinidad al trabajo comunitario
+    Capacidad científica e interés por la investigación clínica epidemiológica y social
+    Disposición para el trabajo en equipo y espíritu de servicio
+    Poseer sensibilidad hacia los problemas sociales
+    Contar con tiempo completo para dedicarlo al estudio de la carrera elegida
+    Mostrar una actitud proactiva y propositiva
+    Poseer habilidad y destrezas psico-afectivas</string>
+	<string name="egreLOdonto">El egresado de la carrera de Licenciado en Odontología será capaz de:
+    Promover prevenir conservar diagnosticar rehabilitar y controlar íntegramente el proceso salud-enfermedad del sistema estomatognático ofreciendo a la comunidad una atención oportuna y eficiente a través de la implementación de programas basados en la identificación y control de los factores epidemiológicos causantes de los padecimientos
+    Aplicar las medidas terapéuticas (restaurativo-quirúrgicas) necesarias para resolver los diferentes padecimientos de la cavidad oral
+    Aplicar en forma individual y comunitaria medidas de prevención primaria promoción de la salud y protección específica para las enfermedades buco-dentales más frecuentes en el país
+    Poseer un sentido alto de responsabilidad honestidad y conciencia humanitaria hacia la sociedad que le demanda sus servicios ajustándose a los estándares de calidad profesional que marcan las normas nacionales de sus homólogos profesionales
+    Incorporarse al trabajo independiente así como a distintos ámbitos institucionales tanto públicos como privados
+    Ser un profesional activo capaz de evaluar y modificar su quehacer cotidiano para desarrollar acciones concretas y compartir experiencias en donde se pueda enriquecer el conocimiento odontológico
+    Estar comprometido con el cuidado del medio ambiente aplicando métodos de control de la contaminación que genera su actividad profesional cotidiana
+    Analizar el proceso salud-enfermedad del sistema estomatognático en los diferentes grupos de población de la sociedad con el propósito de interpretarlo como un problema multifactorial que requiere de la participación multiprofesional e interdisciplinaria para la solución y mejoramiento continuo de la calidad de vida de la población
+    Aplicar los métodos experimental clínico estadístico epidemiológico y administrativo en el diagnóstico individual y comunitario así como en los planes de tratamiento y operación de programas de atención con base en el principio de prevención integral
+    Aplicar los principios de desmonopolización transferencia multidisciplina atención integral simplificación uso de la tecnología apropiada en la prevención protección específica tratamiento y rehabilitación del sistema estomatognático
+    Realizar el diagnóstico integral de los problemas de salud de los individuos y comunidades con un enfoque biopsicosocial
+    Manejar los métodos técnicas y procedimientos propios del campo de la Odontología para contribuir a la solución de los problemas del proceso de salud-enfermedad de la población sin detrimento del entorno
+    Diseñar y realizar planes de tratamiento preventivo curativo y restaurativo aplicando los conocimientos teórico-prácticos en la práctica clínica general
+    Contar con los elementos teóricos necesarios para seleccionar la tecnología apropiada a fin de abatir costos sin detrimento de la calidad
+    Establecer las estrategias necesarias para el cumplimiento de las recomendaciones nacionales e internacionales para la prevención y control de infecciones cruzadas en Odontología
+    Aplicar las diferentes técnicas para la prevención manejo y tratamiento de las urgencias médico-estomatológicas
+    Aplicar técnicas didácticas acordes a la población para promover la salud así como participar en la capacitación de promotores de salud pertenecientes a la población motivo de intervención
+    Analizar desde el marco legal y normativo del ejercicio profesional a los diferentes modelos de servicio tanto institucionales como privados que se promueven actualmente con el propósito de dar respuesta a los problemas de salud y sean alternativas variables en el actual mercado ocupacional</string>
+	<string name="mapaCurrLOdontoCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/odontologia.pdf</string>
+	<string name="mapaCurrLOdontoCICS_UST">https://www.cics-sto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/odontologia.pdf</string>
+
+	<string name="objLTS">El Licenciado en Trabajo Social al término de su formación profesional estará capacitado para: analizar científicamente las diferentes variables que conforman la situación económico-social con el objetivo de llegar a la interpretación global de ella Adoptar una actitud crítica frente a la realidad social para colaborar en la transformación de las comunidades.</string>
+	<string name="ingLTS">Deberá poseer conocimientos básicos del área de Ciencias de la Salud
+    Afinidad al trabajo comunitario
+    Capacidad científica e interés por la investigación clínica epidemiológica y social
+    Disposición para el trabajo en equipo y espíritu de servicio
+    Poseer sensibilidad hacia los problemas sociales
+    Contar con tiempo completo para dedicarlo al estudio de la carrera elegida
+    Mostrar una actitud proactiva y propositiva.</string>
+	<string name="egreLTS">El trabajador social es un profesionista líder en el conocimiento integral del área de las ciencias biomédicas socio humanísticas contribuye al bienestar social del individuo grupo familias y comunidades orientando su potencial en el desarrollo sociocultural económico y humanístico a través de la dirección de organismos e implementación de políticas sociales
+    Los egresados pueden desempeñarse en la diversidad de los campos institucionales del sector gubernamental así como del sector privado</string>
+	<string name="mapaCurrLTSCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/lic-trabajo-social.pdf</string>
+
+	<string name="objMCH">Formar recursos humanos dentro del área de la salud con una preparación de médico general y además con los conocimientos de la terapéutica homeopática que le permita participar eficientemente en la prevención atención médico asistencial e investigación de la problemática de salud que afronta el país dirigida al individuo familia o grupo de población que esté bajo su responsabilidad.</string>
+	<string name="ingMCH">Tener sentido de solidaridad y servicio hacia sus semejantes.</string>
+	<string name="egreMCH">Consolidará actitudes críticas innovadoras creativas y participativas basadas en los conocimientos que le permitan tener un marco de referencia para comprender e integrar el conocimiento médico científico; relacionando los problemas del entorno para comprender los procesos patológicos resultantes así mismo analizar reflexionar y proponer la prevención rehabilitación y la promoción de la Salud solidarizándose con los grupos sociales mas desprotegidos y necesitados así como la convicción de aplicar sus conocimientos como parte del desarrollo profesional continuo
+    En el Área Básica: Solicitar e interpretar estudios de gabinete y laboratorio de acuerdo a los avances de la biotecnología Aplicar los conocimientos de manera oportuna y eficaz discernir las condiciones para transferir a otros niveles de atención a los pacientes metodológico: realizar investigación bibliográfica Distinguir normalidad y anormalidad en las esferas biológica psicológica y social del ser humano
+    En el Área Sociomédica: Participar en los programas de prevención y vigilancia epidemiológica local y nacional Identificar las principales causas de morbi mortalidad a nivel local y nacional realizar promoción de la salud del individuo la familia y la comunidad para mejorar la calidad de vida Programar y realizar acciones preventivas y correctivas así como sugerir los mecanismos adecuados en materia de salud individual y colectiva Dar atención primaria en salud Ejercer la profesión médica dentro del ámbito de competencia Propiciar su actualización permanente con estudios de posgrado Auto aprender investigar y actualizarse de manera continua Realizar investigación en medicina Reconocerse como sujeto activo de la práctica médica en la sociedad en que se desenvuelve Mantener una actitud humanista y ética reconociendo sus propias limitaciones y realizando las acciones médicas con seriedad y discreción profesional Mantener comunicación con la Escuela Nacional de Medicina y Homeopatía a fin de vincular las actividades de los egresados Incorporarse a equipos multidisciplinarios con espíritu de trabajo y criterios científicos éticos ecológicos humanísticos y de servicio
+    En el Área Clínica y Homeopática: Conducir un interrogatorio médico interpretando el lenguaje del paciente y traduciéndolo a la terminología médica Elaborar una historia clínica que permita establecer un diagnóstico oportuno para integrar los elementos indispensables e iniciar el tratamiento adecuado Emplear sus habilidades clínicas e interpretación de estudios de laboratorio y gabinete para diagnosticar pronosticar y aplicar el tratamiento inicial adecuado a nivel individuo y colectivo Conocer y ejecutar los procedimientos médicos quirúrgicos y anestésicos básicos de un médico general Tener capacidad de desempeño en condiciones críticas Tomar decisiones integrando criterios médicos y principios de la bioética Tener un desempeño profesional responsable desempeñarse con responsabilidad en los ámbitos de trabajo Desarrollar proyectos de investigación relacionados con la Medicina la Homeopatía y la Educación Médica Participar en investigación en las áreas de biomédica socio médicas clínicas y de Homeopatía que permitan la construcción de una práctica médica homeopática más pertinente</string>
+	<string name="mapaCurrMCHENMH">http://www.enmh.ipn.mx/Oferta_Educativa/Paginas/mcmcyh.htm</string>
+
+	<string name="objMCP">Formar Médicos Generales con un óptimo nivel de calificación profesional con múltiples alternativas de práctica médica y suficientemente competitivos en los ámbitos nacional e internacional; y sobre todo con un amplio compromiso de solidaridad y servicio con la población mexicana con un adecuado potencial de liderazgo y de vinculación en las instituciones del Sistema Nacional de Salud.</string>
+	<string name="ingMCP">Manifestar una notable disposición para el aprendizaje que lo aparte de actitudes dogmáticas frente al conocimiento
+    Manifestar un claro sentido de disposición al servicio y solidaridad con los semejantes y un sentido de respeto por la vida la salud y la enfermedad
+    Disponer de tiempo completo aplicable a los estudios de la carrera
+    Tener una clara vocación por la carrera y contar con las actitudes y aptitudes necesarias para ejercer la profesión como: responsabilidad seriedad autocontrol disposición para desarrollar una capacidad de respuesta efectiva ante situaciones de tensión riesgo o emergentes tendiente a la solución de problemas
+    Poseer conocimientos sólidos en las áreas de bilogía física química; y en forma idónea conocimientos básicos de las etimologías grecolatinas e idioma inglés que le facilitarán la comprensión y dominio de los conceptos utilizados en las asignaturas básicas y clínicas
+    Conocer los elementos fundamentales del manejo y uso de las computadoras así como los sistemas de informática y bancos de datos de información médica y científica actuales</string>
+	<string name="egreMCP">El estudiante que concluya satisfactoriamente la carrera de medicina y obtiene el título médico cirujano y partero es un egresado en nivel de licenciatura avalado académicamente por el Instituto Politécnico Nacional y facultado para el libre ejercicio de la medicina por la Secretaria de Educación Pública mediante la expedición de título y cédula profesionales
+    La estructura curricular de la carrera está configurada para la formación de un profesional médico que reúne características agrupadas en los siguientes componentes de un perfil dinámico y cambiante por su propia naturaleza conforme evoluciona la estructura social y la situación de salud del país</string>
+	<string name="mapaCurrMCPCICS_UMA">https://www.cicsma.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Cirujano-Partero.pdf</string>
+	<string name="mapaCurrMCPENMH">http://www.enmh.ipn.mx/Oferta_Educativa/Paginas/mcmcyp.htm</string>
+	<string name="mapaCurrMCPESM">https://www.esm.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Cirujano-Partero.pdf</string>
+
+	<string name="objQBP">La carrera de Químico Bacteriólogo y Parasitólogo formará profesionales capaces de ejecutar supervisar y dirigir las actividades propias de la microbiología la parasitología la inmunología y la bioquímica en los campos de: la salud la ecología la biotecnología industrial y agropecuaria Impartirá curricularmente los conocimientos científicos y técnicos propios de su área integrándolos a los aspectos sociales económicos y políticos del país.</string>
+	<string name="ingQBP">Contar con conocimientos teóricos y prácticos de las ciencias: Química Orgánica e Inorgánica Biología Física y Matemáticas.</string>
+	<string name="egreQBP">El Químico Bacteriólogo y Parasitólogo es un profesionista capaz de participar en:
+    Organización y operación de laboratorios de diagnóstico y de control de enfermedades
+    Producción y control integral de productos biológicos
+    Vigilancia y control sanitario
+    Conservación restauración o mejoramiento de la producción y de los ecosistemas por vía microbiana
+    Utilización de los microorganismos como recursos
+    Formación y desarrollo de recursos humanos e investigación</string>
+	<string name="mapaCurrQBPENCB">http://www.encb.ipn.mx/licenciatura/quimicoBacteriologoParasitologo/index.html</string>
+
+	<string name="objQFI">La carrera de Químico Farmacéutico Industrial preparará profesionales de alta calidad que sean capaces de colocarse en el sector productivo del campo laboral químico y químico farmacéutico así como para desarrollar e implementar la tecnología necesaria para la extracción separación e identificación de fármacos de origen natural y sintético para la elaboración de sistemas de entrega y cosméticos siguiendo las buenas prácticas de manufactura así como el control sobre el uso de xenobióticos.</string>
+	<string name="ingQFI">Egresados de las escuelas de nivel medio superior preferentemente de la rama de Ciencias Médico-Biológicas y que demuestren a través del examen tener conocimientos básicos de las áreas de Biología Química Orgánica e Inorgánica Física y Matemáticas.</string>
+	<string name="egreQFI">La educación de los futuros farmacéuticos debe garantizar que éste profesional podrá realizar adecuadamente las siguientes funciones
+    Producir y obtener las materias primas para la industria farmacéutica empleando racionalmente los recursos naturales del país
+    Producir adquirir controlar conservar distribuir y dispensar medicamentos
+    Realizar tareas de información y educación sobre medicamentos con miembros del equipo de salud pacientes y con la comunidad en general</string>
+	<string name="mapaCurrQFIENCB">http://www.encb.ipn.mx/licenciatura/quimicoFarmaceuticoIndustrial/index.html</string>
+
+	<string name="objCP">Preparar profesionales con capacidad y conocimientos para dirigir asesorar y ejecutar todas aquellas actividades empresariales orientadas a localizar estimular y satisfacer la demanda de artículos nacionales en los mercados internacionales así como orientar y realizar las inherentes a las importaciones coadyuvando así a la optimización de los recursos y elementos que intervienen en la industrialización y comercialización de bienes y servicios que se producen en el país.</string>
+	<string name="ingCP">El alumno aspirante a la carrera de Contador Público debe poseer deseablemente conocimientos del idioma inglés y manejo de las tecnologías de la información y comunicación; habilidad para trabajar en equipo y creatividad para la solución de problemas así como comportamiento profesional ético.</string>
+	<string name="egreCP">El egresado de la carrera de Contador Público posee conocimientos para preparar y evaluar la información contable y administrativa para la toma de decisiones en ambientes globalizados Utiliza las tecnologías de la información y desarrolla sus actividades en apego a las disposiciones normativas vigentes y con ética profesional Posee habilidades para proponer soluciones que fomenten la eficiencia y rentabilidad de las entidades en que se desarrolla Responde a los valores de: calidad profesional de su trabajo respeto a la dignidad del ser humano integridad responsabilidad credibilidad y vocación de servicio.</string>
+	<string name="mapaCurrCPESCA_UTep">https://www.escatep.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Mapa-curricular-CP.pdf</string>
+	<string name="mapaCurrCPESCA_UTep_NESC">https://www.nsyp.aulapolivirtual.ipn.mx/course/index.php?categoryid=12</string>
+	<string name="mapaCurrCPESCA_UST">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Contador-Publico-ST.pdf</string>
+	<string name="mapaCurrCPESCA_UST_NESC">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/no-escolarizado/lic-contaduria.pdf</string>
+
+    <string name="objLAI">Formar profesionales con un enfoque interdisciplinario, integral y flexible, orientados al alto desempeño, que den respuesta a la problemática de las organizaciones; relacionada con sus sistemas de gestión, finanzas, administración de capital humano y la mercadotecnia; con un alto sentido de ética, honestidad y lealtad; buscando la mejora de la productividad, calidad, competitividad el contexto nacional e internacional.</string>
+    <string name="ingLAI">Los requisitos para ingresar al Programa Académico de Licenciado en Administración Industrial son:
+
+Haber concluido el nivel de educación medio superior,
+Aprobar el examen de admisión correspondiente
+Mostrar alto sentido de los valores éticos, responsabilidad y respeto
+Actitudes de trabajo colaborativo y espíritu emprendedor
+Interés por la investigación.</string>
+	<string name="egreLAI">Es un profesional interdisciplinario y emprendedor que labora en cualquier tipo de organizaciones públicas o privadas con una visión estratégica que le permite integrar al elemento humano en equipos de trabajo efectivos, destacando en su papel de líder. Diseña e implementa modelos de mejora continua, mediante la aplicación de tecnologías y normas para la gestión de la eficacia y eficiencia de las organizaciones. Audita sistemas para la gestión de calidad y el ambiente bajo criterios nacionales e internacionales.</string>
+	<string name="mapaCurrLAIUPIICSA">http://www.sites.upiicsa.ipn.mx/portalweb/ofertaeducativa/planesestudio/AI/06/Periodos_LAI.pdf</string>
+
+
+	<string name="objLADE">Formar profesionistas competentes en la dirección desarrollo y consolidación de empresas así como consultores con liderazgo y visión integral de la organización; con proyección nacional e internacional que promuevan la inserción competitiva de las empresas en el entorno global basados en la ética la responsabilidad social y el desarrollo sustentable.</string>
+	<string name="ingLADE">El ingreso de los aspirantes al Programa académico de Licenciado en Administración y Desarrollo Empresarial debe cumplir con los siguientes requisitos:
+        Concluir la Educación Media Superior
+        Aprobar el Examen de admisión correspondiente al área de Ciencias Sociales
+        Dominio del idioma inglés (Nivel A2 del Marco Común Europeo)
+        Interés por la investigación
+        Disponibilidad de tiempo para realizar las actividades escolares que sean requeridas.</string>
+	<string name="egreLADE">El egresado del Programa académico de Administración y Desarrollo Empresarial será capaz de:
+        Planear organizar ejecutar asesorar dirigir y evaluar las operaciones que se realizan en las organizaciones turísticas
+        Emprender crear y desarrollar pequeñas y medianas empresas
+        Insertarse en puestos gerenciales y directivos de empresas pequeñas medianas y grandes
+        Desempeñarse en entidades públicas privadas y sociales de transformación y/o comercialización de bienes o de servicios
+        Brindar servicios independientes de asesoría y capacitación en apoyo a la apertura de empresas instituciones a empresarios y emprendedores</string>
+	<string name="mapaCurrLADEESCA_UST">http://www.escom.ipn.mx/docs/appExPro/LADE_ESCA.pdf</string>
+	<string name="mapaCurrLADEESCA_UST_NESC">https://www.nsyp.aulapolivirtual.ipn.mx/course/index.php?categoryid=31</string>
+
+	<string name="objLEcono">Formar profesionales de la economía competentes para que en el marco del diseño implementación seguimiento y evaluación de políticas nacionales regionales y sectoriales de la actividad económica pública y privada contribuyan a la solución de problemas económicos y sociales mediante la implementación de estrategias y proyectos para la industria la empresa los organismos y el estado.</string>
+	<string name="ingLEcono">Debe tener disposición para el trabajo en equipo y para asumir responsabilidades</string>
+	<string name="egreLEcono">El egresado de la Licenciatura en Economía del Instituto Politécnico Nacional tiene dominio de la Ciencia Económica Así el economista tendrá una fortaleza analítica y propositiva basada en la historicidad y criticidad que le permite analizar evaluar aplicar planear pronosticar diseñar y proponer soluciones a los problemas económicos técnicos científicos y administrativos De este modo estará preparado para desempeñarse en los sectores: público privado social y de investigación mostrando una actitud comprometida con su entorno social y natural proactiva y colaborativa conduciéndose con principios éticos con el desarrollo social cultural científico y tecnológico de la nación Formados para hacer de México un país soberano con justicia social capacitados para elaborar las propuestas de políticas económicas que permitan al país atenuar la dependencia externa la pobreza el desempleo la marginación la injusticia y la exclusión social el Licenciado en Economía del IPN contará con un sólido soporte fundamental de conocimientos científicos y capacidades de investigación para poder desempeñarse desarrollando análisis evaluación y diseño de políticas estratégicas de la economía nacional De este modo podrá intervenir en análisis económicos de temas estratégicos para el país y el orbe en los diversos organismos del sector público y privado nacionales e internacionales</string>
+	<string name="mapaCurrLEconoESE">https://www.ese.ipn.mx/Estudiantes/Documents/Mapa-Curricular/Mapa_2011_Departamentos.pdf</string>
+
+	<string name="objLNI">Ofrecer estudios ampliamente reconocidos para formar profesionistas de alto nivel directivo y gerencial capaces de promover concretar y administrar negocios internacionales de diversa índole con alto sentido de responsabilidad calidad y creatividad basados en un dominio de las habilidades que la competencia internacional exige todo ello en términos de planeación organización dirección y control con amplio dominio del inglés y conocimientos de japonés o francés.</string>
+	<string name="ingLNI">El aspirante debe contar con:
+        Un genuino interés por los negocios y la comercialización internacional
+        Facilidad para desenvolverse en ambientes multiculturales
+        Interés por la política y la economía mundial
+        Conocimientos de matemáticas contabilidad finanzas economía administración derecho metodología de la investigación geografía y cultura universal así como un amplio conocimiento del idioma inglés que garanticen su adecuado desempeño
+        Como una característica especial el interesado en esta Licenciatura debe tener:
+        Un buen manejo de las relaciones humanas
+        Manejo adecuado del idioma español y del inglés
+        Capaz de tomar decisiones
+        Manejo de personal y actitudes de gusto e interés por la cultura la vida y el emprendimiento.</string>
+	<string name="egreLNI">El egresado de la Licenciatura será capaz de:
+        Detectar analizar y desarrollar oportunidades de negocios
+        Definir y desarrollar estrategias diseños evaluaciones y toma de decisiones sobre el ambiente de los negocios internacionales tomando en cuenta aspectos tales como: finanzas marco jurídico mercadológico promoción y logísticos así como de integración regional
+        Ser un profesional con ética responsabilidad y un alto compromiso social en el desempeño de sus funciones respetando y aprovechando la diversidad multicultural y respeto al ambiente
+        Dirigir o participar en equipos inter y multidisciplinarios dentro de organismos mundiales desempeñando estrategias que beneficien a los diferentes sectores productivos del país</string>
+	<string name="mapaCurrLNIESCA_UTep">https://www.escatep.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Mapa-curricular-LNI.pdf</string>
+	<string name="mapaCurrLNIESCA_UTep_NESC">https://www.nsyp.aulapolivirtual.ipn.mx/course/index.php?categoryid=13</string>
+	<string name="mapaCurrLNIESCA_UST">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Lic-Neg-Inter-ST.pdf</string>
+	<string name="mapaCurrLNIESCA_UST_NESC">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/no-escolarizado/lic-negocios-internacionales.pdf</string>
+
+	<string name="objLRC">Formar profesionales capaces de analizar plantear operar controlar y dirigir todas las actividades del área comercial con una visión integral de las tendencias de los mercados logrando cumplir con los objetivos de las organizaciones con un amplio sentido social.</string>
+	<string name="ingLRC">Interés para trabajar en equipo.</string>
+	<string name="egreLRC">Desarrollo de planes estratégicos de mercadotecnia y ventas
+    Desarrollo de planes estratégicos de comunicación mercadológica
+    Manejo adecuado de tecnologías de información
+    Dominio del idioma inglés de forma competente
+    Comunicación efectiva en las etapas del proceso mercadológico
+    Manejo adecuado de programas de cómputo como herramientas en el ejercicio profesional # Habilidades:
+    Trabajo en equipo
+    Solución de problemas comerciales
+    Comunicación oral escrita y gráfica
+    Toma de decisiones
+    Liderazgo
+    Directiva
+    Visionario
+    Pensador estratégico # Actitudes
+    Competitivo
+    Empático
+    Asertivo
+    Negociador
+    Iniciativa
+    Disposición # Valores
+    Ética profesional
+    Calidad moral
+    Responsabilidad
+    Tolerancia
+    Respeto
+    Compromiso.</string>
+	<string name="mapaCurrLRCESCA_UTep">https://www.escatep.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/Mapa-curricular-LRC.pdf</string>
+	<string name="mapaCurrLRCESCA_UTep_NESC">https://www.nsyp.aulapolivirtual.ipn.mx/course/index.php?categoryid=14</string>
+	<string name="mapaCurrLRCESCA_UST">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/lic-relaciones-comerciales.pdf</string>
+	<string name="mapaCurrLRCESCA_UST_NESC">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/no-escolarizado/lic-relaciones-comerciales.pdf</string>
+
+	<string name="objLTuri">Formar profesionistas de alto nivel en el campo del turismo que contribuya al desarrollo económico, social y político de la nación con una formación integral que le permita el conocimiento y comprensión del conjunto de circunstancias y condiciones naturales, sociales, culturales, económicas y políticas en que se desarrolla la actividad turística y que sea capaz de proponer soluciones utilizando la investigación como elemento para la generación de conocimientos en turismo.</string>
+	<string name="ingLTuri">Tener vocacion para el estudio de las administrativas, la comercialización, la negociación y los adelantos tecnológicos.
+    Tener habilidades para la negociaciones, la comunicación y las relaciones humanas.
+    Identificarse con las carreras participantes en eventos culturales, nacionales e internacionales, para su superación profesional.
+    Tener facilidad para los idiomas.
+    Contar con la vocacion de servicio.
+    Acreditar el examen de ingreso al Instituto Politécnico Nacional.</string>
+	<string name="egreLTuri">Planear, organizar, ejecutar, asesorar, dirigir y evaluar las operaciones que se realizan en las organizaciones turísticas.
+    Analizar, sintetizar, comprender y evaluar la actividad turística y su entorno para la toma de decisiones.
+    Diseñar, desarrollar y comercializar producto turístico.
+    Utilizar las nuevas tecnologías de información y comunicación para el ejercicio de su profesión.
+    Manejar las relaciones públicas en las organizaciones turísticas.
+    Aplicar estándares de calidad nacionales e internacionales en el servicio turístico.
+    Expresar eficientemente sus ideas en forma oral y escrita.
+    Trabajar en equipo.</string>
+	<string name="mapaCurrLTuriEST">https://www.est.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/escolarizado/pgama-academico-est-turismo.pdf</string>
+	<string name="mapaCurrLTuriEST_mix">http://www.modalidadmixta.est.ipn.mx/SSAMP/docs/Mapa_curricular.pdf</string>
+
+	<string name="objLCInt">Por sus características de educación en la modalidad a distancia la Licenciatura en Comercio Internacional aspira a convertirse en el eje de la formación de profesionales en Comercio Internacional con especialidad en el aspecto aduanero jurídico aduanero y administrativo de las operaciones ante las aduanas con técnicas propias del estudiante autodirigido.</string>
+	<string name="ingLCInt">El aspirante debe poseer conocimientos y habilidades básicas en inglés matemáticas contabilidad finanzas economía administración derecho metodología de la investigación geografía y cultura universal Desde luego debe demostrar habilidad en el uso de la computadora y el Internet así como en técnicas propias del autoestudio Además de habilidades en el manejo del Internet como una característica especial el interesado en esta Licenciatura debe tener: un buen manejo de las relaciones humanas capaz de tomar decisiones capacidad de análisis percepción y propuesta y manejo de liderazgo además de tener actitudes de interés por la cultura la creatividad y el emprendimiento Adicionalmente el estudiante deberá tener actitudes y valores que lo distingan como: * Compromiso * Responsabilidad * Proactividad * Tolerancia * Respeto * Honestidad * Transparencia * Mejora continua * Desarrollo * Flexibilidad * Adaptabilidad * Empatía * Colaboración y servicio * Convencido de las ventajas de la modalidad de estudios a distancia * Es deseable que sea activo emprendedor y que tenga conocimientos del idioma inglés y de computación</string>
+	<string name="egreLCInt">Cumplir en tiempo y forma con cada una de las etapas del Proceso de Admisión señaladas en la convocatoria de ingreso al Nivel Superior Sistema Escolarizado del IPN Tales como: * Certificado oficial de estudios de nivel medio superior * Presentar certificado de secundaria * Clave Única de Registro de Población (CURP) * Acta de nacimiento * Aprobar el examen de ingreso * 6 fotografías tamaño infantil</string>
+	<string name="mapaCurrLCIntESCA_UST_NESC">https://www.escasto.ipn.mx/assets/files/ofertaEducativa/mapa-curricular/superior/no-escolarizado/lic-comercio-internacional.pdf</string>
+
+	<string name="objLPB">La Licenciatura en Biblioteconomía también está diseñada con una visión integral con el objetivo de formar profesionistas capaces de interpretar, planear, administrar, dirigir, supervisar evaluar los programas, los proyectos y las tareas profesionales de las bibliotecas, las unidades y los centros de información documental, aplicando los medios manuales y/o automatizados para atender las necesidades de información quien demanden los diversos sectores de la sociedad.</string>
+	<string name="ingLPB">Interés en la organización y gestión del conocimiento
+    Habilidades en el análisis, síntesis y organización de la información
+    Trabajo en equipo en plataformas análogas y digitales
+    Compresión lectora
+     Disponibilidad para trabajar en equipo
+    Actitud de servicios
+    ​​​Los requisitos que debe cubrir el aspirante para el ingreso al IPN son:
+    Estudios concluidos de educación media superior, preferentemente en el área de
+    ​Ciencias Sociales y Administrativas.
+    Cumplir en tiempo y formma con cada una de las etapas del proceso de admisión ​señaladas en la convocatoria de ingreso al nivel superior del IPN.</string>
+	<string name="egreLPB">El Licenciado en Biblioteconomía es competente para diseñar, operar, administrar y evaluar unidades de información, procesos de organización de información y documentación, así como los servicios a usuarios de acuerdo a los principios teóricos, reglas, estándares y metodologías de la Biblioteconomía, en el marco de la normatividad nacional e internacional vigente y de los principios éticos de la profesión. Es competente para el trabajo colaborativo multidisciplinario profesional y de investigación aplicada.</string>
+	<string name="mapaCurrLPBENBA">http://www.enba.ipn.mx/GOB/files/plan_%20licenciado_biblio.pdf</string>
+    <string name="mapaCurrLPBENBA_NESC">http://www.enba.ipn.mx/GOB/files/plan_%20licenciado_biblio.pdf</string>
+
+	<string name="objLPA">La Licenciatura en Archivonomía está diseñada de manera integral con la visión de formar profesionales con habilidades para diseñar, implementar, desarrollar innovar y evaluar sistemas archivísticos, mediante la elaboración de programas de administración de documentos, de conservación y difusión basados en la preservación y el manejo de la información, acorde a la políticas nacionales e internacionales; utilizando para ello los avances de la tecnología, con un alto sentido ético en el contexto actual de modernización.</string>
+	<string name="ingLPA">Interes en la organización y gestión del conocimiento
+    Habilidades en el anánlisis, síntesis y organización de la información
+    Trabajo en equipo en plataformas análogas y digitales
+    Compresión lectora
+    Disponibilidad para trabajar en equipo
+    ​Actitud de servicio</string>
+	<string name="egreLPA">El Licenciado en Archivonomía es competente para administrarlos recursos físicos y humanos para la organización, preservación y difusión de archivos en sus diferentes momentos de evolución, bajo la normatividad, legislación vigente y código de ética de la profesión.</string>
+	<string name="mapaCurrLPAENBA">http://www.enba.ipn.mx/GOB/files/plan_licenciado_archivo.pdf</string>
+    <string name="mapaCurrLPAENBA_NESC">http://www.enba.ipn.mx/GOB/files/plan_licenciado_archivo.pdf</string>
+</resources>

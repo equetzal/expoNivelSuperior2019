@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Unidades -->
+    <string name="compUA">Unidad Azcapotzalco</string>
+    <string name="compUC">Unidad Culhuacán</string>
+    <string name="compUMA">Unidad Milpa Alta</string>
+    <string name="compUST">Unidad Santo Tomás</string>
+    <string name="compUTec">Unidad Tecamachalco</string>
+    <string name="compUTep">Unidad Tepepan</string>
+    <string name="compUTi">Unidad Ticomán</string>
+    <string name="compUZ">Unidad Zacatenco</string>
+
+    <string name="abrUA">UA</string>
+    <string name="abrUC">UC</string>
+    <string name="abrUMA">UMA</string>
+    <string name="abrUST">UST</string>
+    <string name="abrUTec">UTec</string>
+    <string name="abrUTep">UTep</string>
+    <string name="abrUTi">UTi</string>
+    <string name="abrUZ">UZ</string>
+
+    <!-- Escuelas -->
+    <string name="abrCICS">CICS</string>
+    <string name="abrCICS_UMA">CICS UMA</string>
+    <string name="abrCICS_UST">CICS UST</string>
+    <string name="compCICS">Centro Interdisciplinario de Ciencias de la Salud</string>
+    <string name="compCICS_UMA">Centro Interdisciplinario de Ciencias de la Salud Unidad Milpa Alta</string>
+    <string name="compCICS_UST">Centro Interdisciplinario de Ciencias de la Salud Unidad Santo Tomás</string>
+
+    <string name="abrENBA">ENBA</string>
+    <string name="compENBA">Escuela Nacional de Biblioteconomía y Archivonomía</string>
+
+    <string name="abrENCB">ENCB</string>
+    <string name="abrENCB_UST">ENCB UST</string>
+    <string name="abrENCB_UZ">ENCB UZ</string>
+    <string name="compENCB">Escuela Nacional de Ciencias Biológicas</string>
+    <string name="compENCB_UST">Escuela Nacional de Ciencias Biológicas Unidad Santo Tomás</string>
+    <string name="compENCB_UZ">Escuela Nacional de Ciencias Biológicas Unidad Zacatenco</string>
+
+    <string name="abrENMH">ENMH</string>
+    <string name="compENMH">Escuela Nacional de Medicina y Homeopatía</string>
+
+    <string name="abrESCA">ESCA</string>
+    <string name="abrESCA_UST">ESCA UST</string>
+    <string name="abrESCA_UTep">ESCA UTep</string>
+    <string name="compESCA">Escuela Superior de Comercio y Administración</string>
+    <string name="compESCA_UST">Escuela Superior de Comercio y Administración Unidad Santo Tomás</string>
+    <string name="compESCA_UTep">Escuela Superior de Comercio y Administración Unidad Tepepan</string>
+
+    <string name="abrESCOM">ESCOM</string>
+    <string name="compESCOM">Escuela Superior de Cómputo</string>
+
+    <string name="abrESE">ESE</string>
+    <string name="compESE">Escuela Superior de Economía</string>
+
+    <string name="abrESEO">ESEO</string>
+    <string name="compESEO">Escuela Superior de Enfermería y Obstetricia</string>
+
+    <string name="abrESFM">ESFM</string>
+    <string name="compESFM">Escuela Superior de Física y Matemáticas</string>
+
+    <string name="abrESIME">ESIME</string>
+    <string name="abrESIME_UA">ESIME UA</string>
+    <string name="abrESIME_UC">ESIME UC</string>
+    <string name="abrESIME_UTi">ESIME UTi</string>
+    <string name="abrESIME_UZ">ESIME UZ</string>
+    <string name="compESIME">Escuela Superior de Ingeniería Mecánica y Eléctrica</string>
+    <string name="compESIME_UA">Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Azcapotzalco</string>
+    <string name="compESIME_UC">Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Culhuacán</string>
+    <string name="compESIME_UTi">Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Ticomán</string>
+    <string name="compESIME_UZ">Escuela Superior de Ingeniería Mecánica y Eléctrica Unidad Zacatenco</string>
+
+    <string name="abrESIQIE">ESIQIE</string>
+    <string name="compESIQIE">Escuela Superior de Ingeniería Química e Industrias Extractivas</string>
+
+    <string name="abrESIT">ESIT</string>
+    <string name="compESIT">Escuela Superior de Ingeniería Textil</string>
+
+    <string name="abrESIA">ESIA</string>
+    <string name="abrESIA_UTec">ESIA UTec</string>
+    <string name="abrESIA_UTi">ESIA UTi</string>
+    <string name="abrESIA_UZ">ESIA UZ</string>
+    <string name="compESIA">Escuela Superior de Ingeniería y Arquitectura</string>
+    <string name="compESIA_UTec">Escuela Superior de Ingeniería y Arquitectura Unidad Tecamachalco</string>
+    <string name="compESIA_UTi">Escuela Superior de Ingeniería y Arquitectura Unidad Ticomán</string>
+    <string name="compESIA_UZ">Escuela Superior de Ingeniería y Arquitectura Unidad Zacatenco</string>
+
+    <string name="abrESM">ESM</string>
+    <string name="compESM">Escuela Superior de Medicina</string>
+
+    <string name="abrEST">EST</string>
+    <string name="compEST">Escuela Superior de Turismo</string>
+
+    <string name="abrUPIBI">UPIBI</string>
+    <string name="compUPIBI">Unidad Profesional Interdisciplinaria de Biotecnología</string>
+
+    <string name="abrUPIIG">UPIIG</string>
+    <string name="compUPIIG">Unidad Profesional Interdisciplinaria de Ingeniería Campus Guanajuato</string>
+
+    <string name="abrUPIIZ">UPIIZ</string>
+    <string name="compUPIIZ">Unidad Profesional Interdisciplinaria de Ingeniería Campus Zacatecas</string>
+
+    <string name="abrUPIIH">UPIIH</string>
+    <string name="compUPIIH">Unidad Profesional Interdisciplinaria de Ingeniería Campus Hidalgo</string>
+
+    <string name="abrUPIICSA">UPIICSA</string>
+    <string name="compUPIICSA">Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas</string>
+
+    <string name="abrUPIITA">UPIITA</string>
+    <string name="compUPIITA">Unidad Profesional Interdisciplinaria de Ingeniería y Tecnologías Avanzadas</string>
+
+
+</resources>
