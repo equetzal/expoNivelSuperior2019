@@ -17,13 +17,15 @@ There is also a navigation by schools, in which you can see in which schools of 
 <img src="http://enya.codes/gitassets/expoNivelSuperior2019/download_qr.png" width="30%"></p>
 <h2 id="how-it-works">How it works?</h2>
 <p>Due to the institute’s requirements, the app cannot maintain an internet connection or store absolutely any user data due to the institute’s academic purposes.<br>
-To solve this problem, we decided to load all the required data within the app, so that the app alone contains all the information of the institute.</p>
+To solve this problem, we decided to load all the required data within the app, so that the app alone contains all the information of the institute. <sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup></p>
 <h3 id="techs">Techs</h3>
 <dl>
 <dt>UI/UX</dt>
 <dd>For the User Experience and User Interface, the Adobe XD and Illustrator tools were used to create the concept of the app</dd>
 <dt>App</dt>
 <dd>For the development of the app, Android Studio was the IDE with Java as the main programming language selected to do a native app.</dd>
+<dt>Content</dt>
+<dd>All the content were filled up in XML files. <sup class="footnote-ref"><a href="#fn4" id="fnref4">4</a></sup><sup class="footnote-ref"><a href="#fn5" id="fnref5">5</a></sup></dd>
 </dl>
 <h2 id="license">License</h2>
 <p>This software is NOT FREE, and all its rights of change, modification or distribution are reserved. The National Polytechnic Institute reserves the right to proceed legally against any entity that makes use of this repository without the written consent of the author or the institute itself. Therefore, entities are encouraged to use this project for educational and learning purposes.</p>
@@ -34,6 +36,12 @@ To solve this problem, we decided to load all the required data within the app, 
 <li id="fn1" class="footnote-item"><p>Mockup design templates by <a href="http://www.freepik.com">rawpixel.com / Freepik</a> <a href="#fnref1" class="footnote-backref">↩︎</a> <a href="#fnref1:1" class="footnote-backref">↩︎</a></p>
 </li>
 <li id="fn2" class="footnote-item"><p>All the photos inside the app were provided by <a href="http://www.https://unsplash.com">https://unsplash.com</a> <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>All the development of the app by <a href="https://enya.codes">Enya Quetzalli Gómez (Eduardo Gómez)</a> <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>All the data were provided by <a href="https://www.ipn.mx/des/">Higher Education Directorate of the National Polytechnic Institute</a> <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>XML’s files were filled by <a href="https://github.com/JosueHernandezR">Josué David</a> <a href="#fnref5" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
