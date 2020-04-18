@@ -27,7 +27,7 @@ To solve this problem, we decided to load all the required information within th
 <dt>Content</dt>
 <dd>All the content were filled up in XML files. <sup class="footnote-ref"><a href="#fn4" id="fnref4">4</a></sup><sup class="footnote-ref"><a href="#fn5" id="fnref5">5</a></sup></dd>
 </dl>
-<h2 id="license">License</h2>
+<h2 id="disclaimer">Disclaimer</h2>
 <p>This software is NOT FREE, and all its rights of change, modification or distribution are reserved. The National Polytechnic Institute reserves for itslef the right to proceed legally against any entity that makes use of this repository without the written consent of the author or the institute itself. Therefore, entities are encouraged to use this project for educational and learning purposes.</p>
 <p>All the visual resources, as well as all the codes included here, were made by E. Gómez, author of this repository; however, the distribution rights are shared with the National Polytechnic Institute, so I have not included any files that compromise said rights. If you need to have access to a specific resource, please contact me by email <a href="mailto:egomezr1300@alumno.ipn.mx">egomezr1300@alumno.ipn.mx</a>, and I can personally assign you rights to use what is under my power to grant you.</p>
 <hr class="footnotes-sep">
